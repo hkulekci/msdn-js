@@ -1,0 +1,706 @@
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=us-ascii" />
+    <meta name="save" content="history" />
+    <title>
+      Array Object (JavaScript)
+    </title>
+    <meta name="Language" content="en-us" />
+    <meta name="System.Keywords" content="Array object" />
+    <meta name="System.Keywords" content="constructor property" />
+    <meta name="Microsoft.Help.F1" content="Array" />
+    <meta name="Microsoft.Help.Id" content="08e5f552-0797-4b48-8164-609582fc18c9" />
+    <meta name="Description" content="Provides support for creation of arrays of any data type." />
+    <meta name="Microsoft.Help.ContentType" content="Reference" />
+    <meta name="Refinement.TopicID" content="196" />
+    <meta name="DCSext.ProductFamily" content="LIB_DG" />
+    <meta name="DCSext.Product" content="VS_JScript" />
+    <meta name="DCSext.Title" content="Array Object (JavaScript)" />
+    <link rel="stylesheet" type="text/css" href="../styles/presentation.css" />
+    <link rel="stylesheet" type="text/css" href="ms-help://Hx/HxRuntime/HxLink.css" />
+    
+    
+    
+    
+    
+    
+    
+  </head>
+  <body>
+    <form>
+      <input type="hidden" id="userDataCache" class="userDataStyle" /><input type="hidden" id="hiddenScrollOffset" /><img id="collapseImage" style="display:none; height:0; width:0;" src=
+      "../icons/collapse_all.gif" alt="Collapse image" title="Collapse image" /><img id="expandImage" style="display:none; height:0; width:0;" src="../icons/expand_all.gif" alt="Expand Image" title=
+      "Expand Image" /><img id="collapseAllImage" style="display:none; height:0; width:0;" src="../icons/collapse_all.gif" /><img id="expandAllImage" style="display:none; height:0; width:0;" src=
+      "../icons/expand_all.gif" /><img id="dropDownImage" style="display:none; height:0; width:0;" src="../icons/dropdown.gif" /><img id="dropDownHoverImage" style="display:none; height:0; width:0;"
+      src="../icons/dropdownHover.gif" /><img id="copyImage" style="display:none; height:0; width:0;" src="../icons/copycode.gif" alt="Copy image" title="Copy image" /><img id="copyHoverImage" style=
+      "display:none; height:0; width:0;" src="../icons/copycodeHighlight.gif" alt="CopyHover image" title="CopyHover image" />
+    </form>
+    <div id="header">
+      <table id="topTable" cellspacing="0" cellpadding="0">
+        <tr>
+          <td>
+            <span onclick="ExpandCollapseAll(toggleAllImage)" style="cursor:default;" onkeypress="ExpandCollapseAll_CheckKey(toggleAllImage, event)" tabindex="0"><img id="toggleAllImage" class=
+            "toggleAll" src="../icons/collapse_all.gif" />&nbsp;<label id="collapseAllLabel" for="toggleAllImage" style="display: none;">Collapse All</label><label id="expandAllLabel" for=
+            "toggleAllImage" style="display: none;">Expand All</label>&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;</span><span id="devlangsDropdown" class="filter" tabindex="0"><img id=
+            "devlangsDropdownImage" src="../icons/dropdown.gif" />&nbsp;<label id="devlangsMenuAllLabel" for="devlangsDropdownImage" style="display: none;"><nobr>Code:
+            All&nbsp;</nobr></label><label id="devlangsMenuMultipleLabel" for="devlangsDropdownImage" style="display: none;"><nobr>Code: Multiple&nbsp;</nobr></label><label id=
+            "devlangsMenuVisualBasicLabel" for="devlangsDropdownImage" style="display: none;"><nobr>Code: Visual Basic&nbsp;</nobr></label><label id="devlangsMenuCSharpLabel" for=
+            "devlangsDropdownImage" style="display: none;"><nobr>Code: C#&nbsp;</nobr></label><label id="devlangsMenuManagedCPlusPlusLabel" for="devlangsDropdownImage" style=
+            "display: none;"><nobr>Code: Visual C++&nbsp;</nobr></label><label id="devlangsMenuFSharpLabel" for="devlangsDropdownImage" style="display: none;"><nobr>Code:
+            F#&nbsp;</nobr></label><label id="devlangsMenuHLSLLabel" for="devlangsDropdownImage" style="display: none;"><nobr>Code: HLSL&nbsp;</nobr></label><label id="devlangsMenuJScriptLabel" for=
+            "devlangsDropdownImage" style="display: none;"><nobr>Code: JScript&nbsp;</nobr></label></span>
+          </td>
+        </tr>
+      </table>
+      <div id="devlangsMenu">
+        <input id="VisualBasicCheckbox" type="checkbox" data="VisualBasic,vb,'persist'" value="on" onclick="SetLanguage(this)" /><label class="checkboxLabel" for="VisualBasicCheckbox">Visual
+        Basic</label><br />
+        <input id="CSharpCheckbox" type="checkbox" data="CSharp,cs,'persist'" value="on" onclick="SetLanguage(this)" /><label class="checkboxLabel" for="CSharpCheckbox">C#</label><br />
+        <input id="ManagedCPlusPlusCheckbox" type="checkbox" data="ManagedCPlusPlus,cpp,'persist'" value="on" onclick="SetLanguage(this)" /><label class="checkboxLabel" for=
+        "ManagedCPlusPlusCheckbox">Visual C++</label><br />
+        <input id="FSharpCheckbox" type="checkbox" data="FSharp,fs,'persist'" value="on" onclick="SetLanguage(this)" /><label class="checkboxLabel" for="FSharpCheckbox">F#</label><br />
+        <input id="HLSLCheckbox" type="checkbox" data="HLSL,cpp,'persist'" value="on" onclick="SetLanguage(this)" /><label class="checkboxLabel" for="HLSLCheckbox">HLSL</label><br />
+        <input id="JScriptCheckbox" type="checkbox" data="JScript,cs,'persist'" value="on" onclick="SetLanguage(this)" /><label class="checkboxLabel" for="JScriptCheckbox">JScript</label><br />
+      </div>
+      <table id="bottomTable" cellpadding="0" cellspacing="0">
+        <tr id="headerTableRow1">
+          <td align="left">
+            <span id="runningHeaderText">JavaScript</span>
+          </td>
+        </tr>
+        <tr id="headerTableRow2">
+          <td align="left">
+            <span id="nsrTitle">Array Object (JavaScript)</span>
+          </td>
+        </tr>
+        <tr id="headerTableRow3">
+          <td align="left">
+            <span id="headfeedbackarea" class="feedbackhead"><a href=
+            "javascript:SubmitFeedback('DevDocs@Microsoft.com','','','','8.0.13105.10000','%0/dThank%20you%20for%20your%20feedback.%20The%20developer%20writing%20teams%20use%20your%20feedback%20to%20improve%20documentation.%20While%20we%20are%20reviewing%20your%20feedback,%20we%20may%20send%20you%20e-mail%20to%20ask%20for%20clarification%20or%20feedback%20on%20a%20solution.%20We%20do%20not%20use%20your%20e-mail%20address%20for%20any%20other%20purpose%20and%20we%20delete%20it%20after%20we%20finish%20our%20review.%0/AFor%20further%20information%20about%20the%20privacy%20policies%20of%20Microsoft,%20please%20see%20http://privacy.microsoft.com/en-us/default.aspx.%0/A%0/d','Customer%20Feedback');">
+            Send Feedback</a></span>
+          </td>
+        </tr>
+      </table>
+      <table id="gradientTable">
+        <tr>
+          <td class="nsrBottom" background="../icons/gradient.gif"></td>
+        </tr>
+      </table>
+    </div>
+    <div id="mainSection">
+      <div id="mainBody">
+        <div id="allHistory" class="saveHistory" onsave="saveAll()" onload="loadAll()"></div>
+        <div class="introduction">
+          <p xmlns:util="util">
+            Provides support for creation of arrays of any data type.
+          </p>
+        </div>
+        <div id="syntaxSection" class="section">
+          <div id="syntaxCodeBlocks" class="code">
+            <table width="100%" cellspacing="0" cellpadding="0">
+              <tr>
+                <th align="left"></th>
+              </tr>
+              <tr>
+                <td>
+                  <pre>
+<span class="parameter" sdata="paramReference" xmlns:util="util">arrayObj</span> = new Array()
+<span class="parameter" sdata="paramReference" xmlns:util="util">arrayObj</span> = new Array([<span class="parameter" sdata="paramReference" xmlns:util="util">size</span>])
+<span class="parameter" sdata="paramReference" xmlns:util="util">arrayObj</span> = new Array([<span class="parameter" sdata="paramReference" xmlns:util="util">element0</span>[, <span class=
+"parameter" sdata="paramReference" xmlns:util="util">element1</span>[, ...[, <span class="parameter" sdata="paramReference" xmlns:util="util">elementN</span>]]]])
+</pre>
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <h1 class="heading">
+          <span onclick="ExpandCollapse(sectionToggle0)" style="cursor:default;" onkeypress="ExpandCollapse_CheckKey(sectionToggle0, event)" tabindex="0"><img id="sectionToggle0" class="toggle" name=
+          "toggleSwitch" src="../icons/collapse_all.gif" />Parameters</span>
+        </h1>
+        <div id="sectionSection0" class="section" name="collapseableSection" style="" expanded="true">
+          <dl class="authored">
+            <dt>
+              <span class="parameter" sdata="paramReference" xmlns:util="util">arrayObj</span>
+            </dt>
+            <dd>
+              <p xmlns:util="util">
+                Required. The variable name to which the <b>Array</b> object is assigned.
+              </p>
+            </dd>
+            <dt>
+              <span class="parameter" sdata="paramReference" xmlns:util="util">size</span>
+            </dt>
+            <dd>
+              <p xmlns:util="util">
+                Optional. The size of the array. As arrays are zero-based, created elements will have indexes from zero to <span class="parameter" sdata="paramReference">size</span> -1.
+              </p>
+            </dd>
+            <dt>
+              <span class="parameter" sdata="paramReference" xmlns:util="util">element0,...,elementN</span>
+            </dt>
+            <dd>
+              <p xmlns:util="util">
+                Optional. The elements to place in the array. This creates an array with <i>n</i> + 1 elements, and a <b>length</b> of <i>n</i> + 1. Using this syntax, you must supply more than one
+                element.
+              </p>
+            </dd>
+          </dl>
+        </div>
+        <h1 class="heading">
+          <span onclick="ExpandCollapse(languageReferenceRemarksToggle)" style="cursor:default;" onkeypress="ExpandCollapse_CheckKey(languageReferenceRemarksToggle, event)" tabindex="0"><img id=
+          "languageReferenceRemarksToggle" class="toggle" name="toggleSwitch" src="../icons/collapse_all.gif" />Remarks</span>
+        </h1>
+        <div id="languageReferenceRemarksSection" class="section" name="collapseableSection" style="">
+          <p xmlns:util="util">
+            After an array is created, you can access the individual elements of the array by using [ ] notation. Note that arrays in JavaScript are zero-based.
+          </p>
+          <div class="code">
+            <table width="100%" cellspacing="0" cellpadding="0">
+              <tr>
+                <th>
+                  JavaScript&nbsp;
+                </th>
+                <th>
+                  <span class="copyCode" onclick="CopyCode(this)" onkeypress="CopyCode_CheckKey(this, event)" onmouseover="ChangeCopyCodeIcon(this)" onmouseout="ChangeCopyCodeIcon(this)" tabindex=
+                  "0"><img class="copyCodeImage" name="ccImage" align="absmiddle" alt="Copy image" title="Copy image" src="../icons/copycode.gif" />Copy Code</span>
+                </th>
+              </tr>
+              <tr>
+                <td colspan="2">
+                  <pre>
+var my_array = new Array();
+for (i = 0; i &lt; 10; i++) {
+    my_array[i] = i;
+}
+x = my_array[4];
+document.write(x);
+
+// Output: 4
+</pre>
+                </td>
+              </tr>
+            </table>
+          </div>
+          <p xmlns:util="util">
+            You can pass an unsigned 32-bit integer to the <b>Array</b> constructor to specify the size of the array. If the value is negative or not an integer, a run-time error occurs. If you run
+            the following code, you should see this error in the Console.
+          </p>
+          <div class="code">
+            <table width="100%" cellspacing="0" cellpadding="0">
+              <tr>
+                <th>
+                  JavaScript&nbsp;
+                </th>
+                <th>
+                  <span class="copyCode" onclick="CopyCode(this)" onkeypress="CopyCode_CheckKey(this, event)" onmouseover="ChangeCopyCodeIcon(this)" onmouseout="ChangeCopyCodeIcon(this)" tabindex=
+                  "0"><img class="copyCodeImage" name="ccImage" align="absmiddle" alt="Copy image" title="Copy image" src="../icons/copycode.gif" />Copy Code</span>
+                </th>
+              </tr>
+              <tr>
+                <td colspan="2">
+                  <pre>
+var arr = new Array(10);
+document.write(arr.length
+
+// Output: 10
+
+// Don't do this
+var arr = new Array(-1);
+arr = new Array(1.50); 
+</pre>
+                </td>
+              </tr>
+            </table>
+          </div>
+          <p xmlns:util="util">
+            If a single value is passed to the <b>Array</b> constructor, and it is not a number, the <b>length</b> property is set to 1, and the value of the only element becomes the single,
+            passed-in argument.
+          </p>
+          <div class="code">
+            <table width="100%" cellspacing="0" cellpadding="0">
+              <tr>
+                <th>
+                  &nbsp;
+                </th>
+                <th>
+                  <span class="copyCode" onclick="CopyCode(this)" onkeypress="CopyCode_CheckKey(this, event)" onmouseover="ChangeCopyCodeIcon(this)" onmouseout="ChangeCopyCodeIcon(this)" tabindex=
+                  "0"><img class="copyCodeImage" name="ccImage" align="absmiddle" alt="Copy image" title="Copy image" src="../icons/copycode.gif" />Copy Code</span>
+                </th>
+              </tr>
+              <tr>
+                <td colspan="2">
+                  <pre>
+var arr = new Array("one");
+document.write(arr.length);
+document.write("&lt;br/&gt;");
+document.write(arr[0]);
+
+// Output:
+1
+one
+</pre>
+                </td>
+              </tr>
+            </table>
+          </div>
+          <p xmlns:util="util">
+            JavaScript arrays are sparse arrays, which means that not all the elements in an array may contain data. In JavaScript, only the elements that actually contain data exist in the array.
+            This reduces the amount of memory used by the array.
+          </p>
+        </div>
+        <h1 class="heading">
+          <span onclick="ExpandCollapse(requirementsTitleToggle)" style="cursor:default;" onkeypress="ExpandCollapse_CheckKey(requirementsTitleToggle, event)" tabindex="0"><img id=
+          "requirementsTitleToggle" class="toggle" name="toggleSwitch" src="../icons/collapse_all.gif" />Requirements</span>
+        </h1>
+        <div id="requirementsTitleSection" class="section" name="collapseableSection" style="">
+          <p xmlns:util="util">
+            The <b>Array</b> object was introduced in
+          </p>
+          <p>
+            Supported in the following document modes: Quirks, Internet Explorer 6 standards, Internet Explorer 7 standards, Internet Explorer 8 standards, Internet Explorer 9 standards, Internet
+            Explorer 10 standards. Also supported in Windows Store apps. See Version Information.
+          </p>. Some members in the following lists were introduced in later versions. For more information, see <span sdata="link">JavaScript Version Information</span> or the documentation for the
+          individual members.
+        </div>
+        <h1 class="heading">
+          <span onclick="ExpandCollapse(sectionToggle1)" style="cursor:default;" onkeypress="ExpandCollapse_CheckKey(sectionToggle1, event)" tabindex="0"><img id="sectionToggle1" class="toggle" name=
+          "toggleSwitch" src="../icons/collapse_all.gif" />Properties</span>
+        </h1>
+        <div id="sectionSection1" class="section" name="collapseableSection" style="" expanded="true">
+          <p xmlns:util="util">
+            The following table lists the properties of the <b>Array</b> object.
+          </p>
+          <div class="caption"></div>
+          <div class="tableSection">
+            <table width="50%" cellspacing="2" cellpadding="5" frame="lhs">
+              <tr>
+                <th>
+                  <p xmlns:util="util">
+                    Property
+                  </p>
+                </th>
+                <th>
+                  <p xmlns:util="util">
+                    Description
+                  </p>
+                </th>
+              </tr>
+              <tr>
+                <td>
+                  <p xmlns:util="util">
+                    constructor Property
+                  </p>
+                </td>
+                <td>
+                  <p xmlns:util="util">
+                    Specifies the function that creates an array.
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p xmlns:util="util">
+                    length Property (Array)
+                  </p>
+                </td>
+                <td>
+                  <p xmlns:util="util">
+                    Returns an integer value that is one higher than the highest element defined in an array.
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p xmlns:util="util">
+                    prototype Property
+                  </p>
+                </td>
+                <td>
+                  <p xmlns:util="util">
+                    Returns a reference to the prototype for an array.
+                  </p>
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <h1 class="heading">
+          <span onclick="ExpandCollapse(sectionToggle2)" style="cursor:default;" onkeypress="ExpandCollapse_CheckKey(sectionToggle2, event)" tabindex="0"><img id="sectionToggle2" class="toggle" name=
+          "toggleSwitch" src="../icons/collapse_all.gif" />Functions</span>
+        </h1>
+        <div id="sectionSection2" class="section" name="collapseableSection" style="" expanded="true">
+          <p xmlns:util="util">
+            The following table describes the functions of the <b>Array</b> object.
+          </p>
+          <div class="caption"></div>
+          <div class="tableSection">
+            <table width="50%" cellspacing="2" cellpadding="5" frame="lhs">
+              <tr>
+                <th>
+                  <p xmlns:util="util">
+                    Function
+                  </p>
+                </th>
+                <th>
+                  <p xmlns:util="util">
+                    Description
+                  </p>
+                </th>
+              </tr>
+              <tr>
+                <td>
+                  <p xmlns:util="util">
+                    Array.isArray Function
+                  </p>
+                </td>
+                <td>
+                  <p xmlns:util="util">
+                    Returns a Boolean value that indicates whether an object is an array.
+                  </p>
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div><a name="js56jsobjarraymeth" xmlns:util="util"></a>
+        <h1 class="heading">
+          <span onclick="ExpandCollapse(sectionToggle3)" style="cursor:default;" onkeypress="ExpandCollapse_CheckKey(sectionToggle3, event)" tabindex="0"><img id="sectionToggle3" class="toggle" name=
+          "toggleSwitch" src="../icons/collapse_all.gif" />Methods</span>
+        </h1>
+        <div id="sectionSection3" class="section" name="collapseableSection" style="" expanded="true">
+          <p xmlns:util="util">
+            The following table lists the methods of the <b>Array</b> object.
+          </p>
+          <div class="caption"></div>
+          <div class="tableSection">
+            <table width="50%" cellspacing="2" cellpadding="5" frame="lhs">
+              <tr>
+                <th>
+                  <p xmlns:util="util">
+                    Method
+                  </p>
+                </th>
+                <th>
+                  <p xmlns:util="util">
+                    Description
+                  </p>
+                </th>
+              </tr>
+              <tr>
+                <td>
+                  <p xmlns:util="util">
+                    concat Method (Array)
+                  </p>
+                </td>
+                <td>
+                  <p xmlns:util="util">
+                    Returns a new array consisting of a combination of two arrays.
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p xmlns:util="util">
+                    every Method
+                  </p>
+                </td>
+                <td>
+                  <p xmlns:util="util">
+                    Checks whether a defined callback function returns <span sdata="langKeyword" value="true"><span class="keyword">true</span></span> for all elements in an array.
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p xmlns:util="util">
+                    filter Method
+                  </p>
+                </td>
+                <td>
+                  <p xmlns:util="util">
+                    Calls a defined callback function on each element of an array, and returns an array of values for which the callback function returns <span sdata="langKeyword" value=
+                    "true"><span class="keyword">true</span></span>.
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p xmlns:util="util">
+                    forEach Method
+                  </p>
+                </td>
+                <td>
+                  <p xmlns:util="util">
+                    Calls a defined callback function for each element in an array.
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p xmlns:util="util">
+                    hasOwnProperty Method
+                  </p>
+                </td>
+                <td>
+                  <p xmlns:util="util">
+                    Returns a Boolean value that indicates whether an object has a property with the specified name.
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p xmlns:util="util">
+                    indexOf Method (Array)
+                  </p>
+                </td>
+                <td>
+                  <p xmlns:util="util">
+                    Returns the index of the first occurrence of a value in an array.
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p xmlns:util="util">
+                    isPrototypeOf Method
+                  </p>
+                </td>
+                <td>
+                  <p xmlns:util="util">
+                    Returns a Boolean value that indicates whether an object exists in another object's prototype chain.
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p xmlns:util="util">
+                    join Method
+                  </p>
+                </td>
+                <td>
+                  <p xmlns:util="util">
+                    Returns a <span sdata="langKeyword" value="String"><span class="keyword">String</span></span> object consisting of all the elements of an array concatenated together.
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p xmlns:util="util">
+                    lastIndexOf Method (Array)
+                  </p>
+                </td>
+                <td>
+                  <p xmlns:util="util">
+                    Returns the index of the last occurrence of a specified value in an array.
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p xmlns:util="util">
+                    map Method
+                  </p>
+                </td>
+                <td>
+                  <p xmlns:util="util">
+                    Calls a defined callback function on each element of an array, and returns an array that contains the results.
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p xmlns:util="util">
+                    pop Method
+                  </p>
+                </td>
+                <td>
+                  <p xmlns:util="util">
+                    Removes the last element from an array and returns it.
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p xmlns:util="util">
+                    propertyIsEnumerable Method
+                  </p>
+                </td>
+                <td>
+                  <p xmlns:util="util">
+                    Returns a Boolean value that indicates whether a specified property is part of an object and whether it is enumerable.
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p xmlns:util="util">
+                    push Method
+                  </p>
+                </td>
+                <td>
+                  <p xmlns:util="util">
+                    Appends new elements to an array, and returns the new length of the array.
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p xmlns:util="util">
+                    reduce Method
+                  </p>
+                </td>
+                <td>
+                  <p xmlns:util="util">
+                    Accumulates a single result by calling a defined callback function for all elements in an array. The return value of the callback function is the accumulated result, and is
+                    provided as an argument in the next call to the callback function.
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p xmlns:util="util">
+                    reduceRight Method
+                  </p>
+                </td>
+                <td>
+                  <p xmlns:util="util">
+                    Accumulates a single result by calling a defined callback function for all elements in an array, in descending order. The return value of the callback function is the accumulated
+                    result, and is provided as an argument in the next call to the callback function.
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p xmlns:util="util">
+                    reverse Method
+                  </p>
+                </td>
+                <td>
+                  <p xmlns:util="util">
+                    Returns an <b>Array</b> object with the elements reversed.
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p xmlns:util="util">
+                    shift Method
+                  </p>
+                </td>
+                <td>
+                  <p xmlns:util="util">
+                    Removes the first element from an array and returns it.
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p xmlns:util="util">
+                    slice Method (Array)
+                  </p>
+                </td>
+                <td>
+                  <p xmlns:util="util">
+                    Returns a section of an array.
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p xmlns:util="util">
+                    some Method
+                  </p>
+                </td>
+                <td>
+                  <p xmlns:util="util">
+                    Checks whether a defined callback function returns <span sdata="langKeyword" value="true"><span class="keyword">true</span></span> for any element of an array.
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p xmlns:util="util">
+                    sort Method
+                  </p>
+                </td>
+                <td>
+                  <p xmlns:util="util">
+                    Returns an <b>Array</b> object with the elements sorted.
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p xmlns:util="util">
+                    splice Method
+                  </p>
+                </td>
+                <td>
+                  <p xmlns:util="util">
+                    Removes elements from an array and, if necessary, inserts new elements in their place, returning the deleted elements.
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p xmlns:util="util">
+                    toLocaleString Method
+                  </p>
+                </td>
+                <td>
+                  <p xmlns:util="util">
+                    Returns a string using the current locale.
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p xmlns:util="util">
+                    toString Method
+                  </p>
+                </td>
+                <td>
+                  <p xmlns:util="util">
+                    Returns a string representation of an array.
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p xmlns:util="util">
+                    unshift Method
+                  </p>
+                </td>
+                <td>
+                  <p xmlns:util="util">
+                    Inserts new elements at the start of an array.
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p xmlns:util="util">
+                    valueOf Method
+                  </p>
+                </td>
+                <td>
+                  <p xmlns:util="util">
+                    Gets a reference to the array.
+                  </p>
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+      </div>
+      <div id="footer">
+        <div class="footerLine">
+          <img width="100%" height="3px" src="../icons/footer.gif" alt="Footer image" title="Footer image" />
+        </div><span id="feedbackarea">Send <a href=
+        "javascript:SubmitFeedback('DevDocs@Microsoft.com','','','','8.0.13105.10000','%0/dThank%20you%20for%20your%20feedback.%20The%20developer%20writing%20teams%20use%20your%20feedback%20to%20improve%20documentation.%20While%20we%20are%20reviewing%20your%20feedback,%20we%20may%20send%20you%20e-mail%20to%20ask%20for%20clarification%20or%20feedback%20on%20a%20solution.%20We%20do%20not%20use%20your%20e-mail%20address%20for%20any%20other%20purpose%20and%20we%20delete%20it%20after%20we%20finish%20our%20review.%0/AFor%20further%20information%20about%20the%20privacy%20policies%20of%20Microsoft,%20please%20see%20http://privacy.microsoft.com/en-us/default.aspx.%0/A%0/d','Customer%20Feedback');">
+        feedback</a> on this topic to Microsoft.</span>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,279 @@
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=us-ascii" />
+    <meta name="save" content="history" />
+    <title>
+      JavaScript Reference
+    </title>
+    <meta name="Language" content="en-us" />
+    <meta name="System.Keywords" content="JavaScript, reference" />
+    <meta name="Microsoft.Help.F1" content="vs.htmldesigner.html" />
+    <meta name="Microsoft.Help.Id" content="29f83a2c-48c5-49e2-9ae0-7371d2cda2ff" />
+    <meta name="Description" content="These sections explain the elements that make up the JavaScript language." />
+    <meta name="Microsoft.Help.ContentType" content="Concepts" />
+    <meta name="Refinement.TopicID" content="196" />
+    <meta name="DCSext.ProductFamily" content="LIB_DG" />
+    <meta name="DCSext.Product" content="VS_JScript" />
+    <meta name="DCSext.Title" content="JavaScript Reference" />
+    <link rel="stylesheet" type="text/css" href="../styles/presentation.css" />
+    <link rel="stylesheet" type="text/css" href="ms-help://Hx/HxRuntime/HxLink.css" />
+    
+    
+    
+    
+    
+    
+    
+  </head>
+  <body>
+    <form>
+      <input type="hidden" id="userDataCache" class="userDataStyle" /><input type="hidden" id="hiddenScrollOffset" /><img id="collapseImage" style="display:none; height:0; width:0;" src=
+      "../icons/collapse_all.gif" alt="Collapse image" title="Collapse image" /><img id="expandImage" style="display:none; height:0; width:0;" src="../icons/expand_all.gif" alt="Expand Image" title=
+      "Expand Image" /><img id="collapseAllImage" style="display:none; height:0; width:0;" src="../icons/collapse_all.gif" /><img id="expandAllImage" style="display:none; height:0; width:0;" src=
+      "../icons/expand_all.gif" /><img id="dropDownImage" style="display:none; height:0; width:0;" src="../icons/dropdown.gif" /><img id="dropDownHoverImage" style="display:none; height:0; width:0;"
+      src="../icons/dropdownHover.gif" /><img id="copyImage" style="display:none; height:0; width:0;" src="../icons/copycode.gif" alt="Copy image" title="Copy image" /><img id="copyHoverImage" style=
+      "display:none; height:0; width:0;" src="../icons/copycodeHighlight.gif" alt="CopyHover image" title="CopyHover image" />
+    </form>
+    <div id="header">
+      <table id="topTable" cellspacing="0" cellpadding="0">
+        <tr>
+          <td>
+            <span onclick="ExpandCollapseAll(toggleAllImage)" style="cursor:default;" onkeypress="ExpandCollapseAll_CheckKey(toggleAllImage, event)" tabindex="0"><img id="toggleAllImage" class=
+            "toggleAll" src="../icons/collapse_all.gif" />&nbsp;<label id="collapseAllLabel" for="toggleAllImage" style="display: none;">Collapse All</label><label id="expandAllLabel" for=
+            "toggleAllImage" style="display: none;">Expand All</label>&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;</span><span id="devlangsDropdown" class="filter" tabindex="0"><img id=
+            "devlangsDropdownImage" src="../icons/dropdown.gif" />&nbsp;<label id="devlangsMenuAllLabel" for="devlangsDropdownImage" style="display: none;"><nobr>Code:
+            All&nbsp;</nobr></label><label id="devlangsMenuMultipleLabel" for="devlangsDropdownImage" style="display: none;"><nobr>Code: Multiple&nbsp;</nobr></label><label id=
+            "devlangsMenuVisualBasicLabel" for="devlangsDropdownImage" style="display: none;"><nobr>Code: Visual Basic&nbsp;</nobr></label><label id="devlangsMenuCSharpLabel" for=
+            "devlangsDropdownImage" style="display: none;"><nobr>Code: C#&nbsp;</nobr></label><label id="devlangsMenuManagedCPlusPlusLabel" for="devlangsDropdownImage" style=
+            "display: none;"><nobr>Code: Visual C++&nbsp;</nobr></label><label id="devlangsMenuFSharpLabel" for="devlangsDropdownImage" style="display: none;"><nobr>Code:
+            F#&nbsp;</nobr></label><label id="devlangsMenuHLSLLabel" for="devlangsDropdownImage" style="display: none;"><nobr>Code: HLSL&nbsp;</nobr></label><label id="devlangsMenuJScriptLabel" for=
+            "devlangsDropdownImage" style="display: none;"><nobr>Code: JScript&nbsp;</nobr></label></span>
+          </td>
+        </tr>
+      </table>
+      <div id="devlangsMenu">
+        <input id="VisualBasicCheckbox" type="checkbox" data="VisualBasic,vb,'persist'" value="on" onclick="SetLanguage(this)" /><label class="checkboxLabel" for="VisualBasicCheckbox">Visual
+        Basic</label><br />
+        <input id="CSharpCheckbox" type="checkbox" data="CSharp,cs,'persist'" value="on" onclick="SetLanguage(this)" /><label class="checkboxLabel" for="CSharpCheckbox">C#</label><br />
+        <input id="ManagedCPlusPlusCheckbox" type="checkbox" data="ManagedCPlusPlus,cpp,'persist'" value="on" onclick="SetLanguage(this)" /><label class="checkboxLabel" for=
+        "ManagedCPlusPlusCheckbox">Visual C++</label><br />
+        <input id="FSharpCheckbox" type="checkbox" data="FSharp,fs,'persist'" value="on" onclick="SetLanguage(this)" /><label class="checkboxLabel" for="FSharpCheckbox">F#</label><br />
+        <input id="HLSLCheckbox" type="checkbox" data="HLSL,cpp,'persist'" value="on" onclick="SetLanguage(this)" /><label class="checkboxLabel" for="HLSLCheckbox">HLSL</label><br />
+        <input id="JScriptCheckbox" type="checkbox" data="JScript,cs,'persist'" value="on" onclick="SetLanguage(this)" /><label class="checkboxLabel" for="JScriptCheckbox">JScript</label><br />
+      </div>
+      <table id="bottomTable" cellpadding="0" cellspacing="0">
+        <tr id="headerTableRow1">
+          <td align="left">
+            <span id="runningHeaderText">JavaScript</span>
+          </td>
+        </tr>
+        <tr id="headerTableRow2">
+          <td align="left">
+            <span id="nsrTitle">JavaScript Reference</span>
+          </td>
+        </tr>
+        <tr id="headerTableRow3">
+          <td align="left">
+            <span id="headfeedbackarea" class="feedbackhead"><a href=
+            "javascript:SubmitFeedback('DevDocs@Microsoft.com','','','','8.0.13105.10000','%0/dThank%20you%20for%20your%20feedback.%20The%20developer%20writing%20teams%20use%20your%20feedback%20to%20improve%20documentation.%20While%20we%20are%20reviewing%20your%20feedback,%20we%20may%20send%20you%20e-mail%20to%20ask%20for%20clarification%20or%20feedback%20on%20a%20solution.%20We%20do%20not%20use%20your%20e-mail%20address%20for%20any%20other%20purpose%20and%20we%20delete%20it%20after%20we%20finish%20our%20review.%0/AFor%20further%20information%20about%20the%20privacy%20policies%20of%20Microsoft,%20please%20see%20http://privacy.microsoft.com/en-us/default.aspx.%0/A%0/d','Customer%20Feedback');">
+            Send Feedback</a></span>
+          </td>
+        </tr>
+      </table>
+      <table id="gradientTable">
+        <tr>
+          <td class="nsrBottom" background="../icons/gradient.gif"></td>
+        </tr>
+      </table>
+    </div>
+    <div id="mainSection">
+      <div id="mainBody">
+        <div id="allHistory" class="saveHistory" onsave="saveAll()" onload="loadAll()"></div>
+        <div class="introduction">
+          <p xmlns:util="util">
+            These sections explain the elements that make up the JavaScript language.
+          </p>
+          <p xmlns:util="util">
+            JavaScript code in Internet Explorer can interact with HTML, CSS and the Document Object Model (DOM), which represents HTML and browser objects.
+          </p>
+          <ul xmlns:util="util">
+            <li>
+              <p>
+                For information about HTML, see <a href="http://go.microsoft.com/fwlink/p/?LinkId=251007">HTML/XHTML Reference</a>.
+              </p>
+            </li>
+            <li>
+              <p>
+                For information about CSS, see <a href="http://go.microsoft.com/fwlink/p/?LinkId=251008">Cascading Style Sheets</a>.
+              </p>
+            </li>
+            <li>
+              <p>
+                For information about the DOM, see <a href="http://go.microsoft.com/fwlink/p/?LinkId=251009">Document Object Model (DOM)</a>.
+              </p>
+            </li>
+          </ul>
+          <p xmlns:util="util">
+            JavaScript code can be used in browser applications as well as Windows Store apps. Windows Store apps are supported in Windows 8 and Visual Studio 2012.
+          </p>
+          <ul xmlns:util="util">
+            <li>
+              <p>
+                For information about JavaScript in Windows Store apps, see <a href="http://go.microsoft.com/fwlink/p/?LinkId=250937">JavaScript roadmap</a>.
+              </p>
+            </li>
+            <li>
+              <p>
+                For information about HTML and CSS in Windows Store apps, see <a href="http://go.microsoft.com/fwlink/p/?LinkId=250939">HTML/CSS for Windows Store apps</a>.
+              </p>
+            </li>
+            <li>
+              <p>
+                For information about Windows Store APIs, see <a href="http://go.microsoft.com/fwlink/p/?LinkID=250938">API reference for Windows Runtime and Windows Library for JavaScript</a>.
+              </p>
+            </li>
+          </ul>
+          <p xmlns:util="util">
+            The JavaScript editor in Visual Studio 2012 provides IntelliSense support. For more information, see <span sdata="link">JavaScript IntelliSense</span>.
+          </p>
+        </div>
+        <h1 class="heading">
+          <span onclick="ExpandCollapse(inThisSectionToggle)" style="cursor:default;" onkeypress="ExpandCollapse_CheckKey(inThisSectionToggle, event)" tabindex="0"><img id="inThisSectionToggle"
+          class="toggle" name="toggleSwitch" src="../icons/collapse_all.gif" />In This Section</span>
+        </h1>
+        <div id="inThisSectionSection" class="section" name="collapseableSection" style="">
+          <dl class="authored">
+            <dt>
+              Version Information
+            </dt>
+            <dd>
+              <p xmlns:util="util">
+                Provides a list of JavaScript language features and the Internet Explorer versions in which they were introduced.
+              </p>
+            </dd>
+            <dt>
+              Objects
+            </dt>
+            <dd>
+              <p xmlns:util="util">
+                Provides a list of objects with links to information about each object.
+              </p>
+            </dd>
+            <dt>
+              Constants
+            </dt>
+            <dd>
+              <p xmlns:util="util">
+                Provides a list of constants and links to information about each constant.
+              </p>
+            </dd>
+            <dt>
+              Properties
+            </dt>
+            <dd>
+              <p xmlns:util="util">
+                Provides a list of properties with links to information about each property.
+              </p>
+            </dd>
+            <dt>
+              Functions
+            </dt>
+            <dd>
+              <p xmlns:util="util">
+                Provides a list of functions with links to information about each function.
+              </p>
+            </dd>
+            <dt>
+              Methods
+            </dt>
+            <dd>
+              <p xmlns:util="util">
+                Provides a list of methods with links to information about each method.
+              </p>
+            </dd>
+            <dt>
+              Operators
+            </dt>
+            <dd>
+              <p xmlns:util="util">
+                Provides a list of operators with links to information about each operator.
+              </p>
+            </dd>
+            <dt>
+              Statements
+            </dt>
+            <dd>
+              <p xmlns:util="util">
+                Provides a list of statements with links to information about each statement.
+              </p>
+            </dd>
+            <dt>
+              JavaScript Directives
+            </dt>
+            <dd>
+              <p xmlns:util="util">
+                Includes links to directives.
+              </p>
+            </dd>
+            <dt>
+              Errors
+            </dt>
+            <dd>
+              <p xmlns:util="util">
+                Includes links to run-time and syntax errors.
+              </p>
+            </dd>
+            <dt>
+              <span sdata="link" xmlns:util="util"><a href="ab2c246c-99c7-4594-b598-c91909653e09.htm">JavaScript Reserved Words</a></span>
+            </dt>
+            <dd>
+              <p xmlns:util="util">
+                Provides a list of reserved words. These words may not be used as identifiers.
+              </p>
+            </dd>
+            <dt>
+              <span sdata="link" xmlns:util="util"><a href="570de156-8e5c-413c-ac04-51120bdbb634.htm">JavaScript Future Reserved Words</a></span>
+            </dt>
+            <dd>
+              <p xmlns:util="util">
+                Provides a list of future reserved words. These words may not be used as identifiers.
+              </p>
+            </dd>
+          </dl>
+        </div>
+        <h1 class="heading">
+          <span onclick="ExpandCollapse(relatedSectionsToggle)" style="cursor:default;" onkeypress="ExpandCollapse_CheckKey(relatedSectionsToggle, event)" tabindex="0"><img id="relatedSectionsToggle"
+          class="toggle" name="toggleSwitch" src="../icons/collapse_all.gif" />Related Sections</span>
+        </h1>
+        <div id="relatedSectionsSection" class="section" name="collapseableSection" style="">
+          <dl class="authored">
+            <dt>
+              <span sdata="link" xmlns:util="util">JavaScript Fundamentals</span>
+            </dt>
+            <dd>
+              <p xmlns:util="util">
+                Provides information about how to use JavaScript.
+              </p>
+            </dd>
+            <dt>
+              <a href="http://go.microsoft.com/fwlink/?LinkId=148095" xmlns:util="util">HTML and DHTML Reference</a>
+            </dt>
+            <dd>
+              <p xmlns:util="util">
+                Provides reference information about Dynamic HTML (DHTML) API.
+              </p>
+            </dd>
+          </dl>
+        </div>
+      </div>
+      <div id="footer">
+        <div class="footerLine">
+          <img width="100%" height="3px" src="../icons/footer.gif" alt="Footer image" title="Footer image" />
+        </div><span id="feedbackarea">Send <a href=
+        "javascript:SubmitFeedback('DevDocs@Microsoft.com','','','','8.0.13105.10000','%0/dThank%20you%20for%20your%20feedback.%20The%20developer%20writing%20teams%20use%20your%20feedback%20to%20improve%20documentation.%20While%20we%20are%20reviewing%20your%20feedback,%20we%20may%20send%20you%20e-mail%20to%20ask%20for%20clarification%20or%20feedback%20on%20a%20solution.%20We%20do%20not%20use%20your%20e-mail%20address%20for%20any%20other%20purpose%20and%20we%20delete%20it%20after%20we%20finish%20our%20review.%0/AFor%20further%20information%20about%20the%20privacy%20policies%20of%20Microsoft,%20please%20see%20http://privacy.microsoft.com/en-us/default.aspx.%0/A%0/d','Customer%20Feedback');">
+        feedback</a> on this topic to Microsoft.</span>
+      </div>
+    </div>
+  </body>
+</html>
