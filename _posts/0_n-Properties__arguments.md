@@ -1,6 +1,6 @@
 ---
+layout: post
 title: 0...n Properties (arguments) (JavaScript)
-isChild: false
 ---
 
 ## 0...n Properties (arguments) (JavaScript) {0n_properties_arguments_javascript_title}

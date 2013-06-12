@@ -1,6 +1,6 @@
 ---
+layout: post
 title: $1...$9 Properties (RegExp) (JavaScript)
-isChild: false
 ---
 
 ## $1...$9 Properties (RegExp) (JavaScript) {dollar1dollar9_properties_regexp_javascript_title}
