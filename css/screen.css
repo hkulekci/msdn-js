@@ -204,6 +204,6 @@ ul.posts {
   }
 
 #content{
-  float: right;
-width: 900px;
+  float: left;
+  margin-left:320px;
 }
