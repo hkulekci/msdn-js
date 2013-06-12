@@ -1,4 +1,9 @@
-## [Object.freeze Function (JavaScript)](Object.freeze-Function.html)
+---
+title: Object.freeze Function (JavaScript)
+isChild: false
+---
+
+## Object.freeze Function (JavaScript) {objectfreeze_function_javascript_title}
 
 ### Introduction 
 

@@ -1,4 +1,9 @@
-## [Error Object (JavaScript)](Error-Object.html)
+---
+title: Error Object (JavaScript)
+isChild: false
+---
+
+## Error Object (JavaScript) {error_object_javascript_title}
 
 ### Introduction 
 

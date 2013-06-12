@@ -1,4 +1,9 @@
-## [setYear Method (Date) (JavaScript)](setYear-Method__Date.html)
+---
+title: setYear Method (Date) (JavaScript)
+isChild: false
+---
+
+## setYear Method (Date) (JavaScript) {setyear_method_date_javascript_title}
 
 ### Introduction 
 

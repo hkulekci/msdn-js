@@ -1,4 +1,9 @@
-## [replace Method (String) (JavaScript)](replace-Method__String.html)
+---
+title: replace Method (String) (JavaScript)
+isChild: false
+---
+
+## replace Method (String) (JavaScript) {replace_method_string_javascript_title}
 
 ### Introduction 
 

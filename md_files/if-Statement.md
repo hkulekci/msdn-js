@@ -1,4 +1,9 @@
-## [@if Statement (JavaScript)](if-Statement.html)
+---
+title: @if Statement (JavaScript)
+isChild: false
+---
+
+## @if Statement (JavaScript) {@if_statement_javascript_title}
 
 ### Introduction 
 

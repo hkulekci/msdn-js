@@ -1,4 +1,9 @@
-## [JavaScript Reference](JavaScript-Reference.html)
+---
+title: JavaScript Reference
+isChild: false
+---
+
+## JavaScript Reference {javascript_reference_title}
 
 ### Introduction 
 

@@ -1,4 +1,9 @@
-## [Math.exp Function (JavaScript)](Math.exp-Function.html)
+---
+title: Math.exp Function (JavaScript)
+isChild: false
+---
+
+## Math.exp Function (JavaScript) {mathexp_function_javascript_title}
 
 ### Introduction 
 

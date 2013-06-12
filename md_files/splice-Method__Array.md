@@ -1,4 +1,9 @@
-## [splice Method (Array) (JavaScript)](splice-Method__Array.html)
+---
+title: splice Method (Array) (JavaScript)
+isChild: false
+---
+
+## splice Method (Array) (JavaScript) {splice_method_array_javascript_title}
 
 ### Introduction 
 

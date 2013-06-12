@@ -1,4 +1,9 @@
-## [subarray Method (Float64Array)](subarray-Method__Float64Array.html)
+---
+title: subarray Method (Float64Array)
+isChild: false
+---
+
+## subarray Method (Float64Array) {subarray_method_float64array_title}
 
 ### Introduction 
 

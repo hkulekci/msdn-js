@@ -1,4 +1,9 @@
-## [constructor Property (Error)](constructor-Property__Error.html)
+---
+title: constructor Property (Error)
+isChild: false
+---
+
+## constructor Property (Error) {constructor_property_error_title}
 
 ### Introduction 
 

@@ -1,4 +1,9 @@
-## [JavaScript Run-time Errors](JavaScript-Run-time-Errors.html)
+---
+title: JavaScript Run-time Errors
+isChild: false
+---
+
+## JavaScript Run-time Errors {javascript_runtime_errors_title}
 
 ### Introduction 
 

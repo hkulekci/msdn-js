@@ -1,4 +1,9 @@
-## [ScriptEngine Function (JavaScript)](ScriptEngine-Function.html)
+---
+title: ScriptEngine Function (JavaScript)
+isChild: false
+---
+
+## ScriptEngine Function (JavaScript) {scriptengine_function_javascript_title}
 
 ### Introduction 
 

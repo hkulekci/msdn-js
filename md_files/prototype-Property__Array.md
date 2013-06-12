@@ -1,4 +1,9 @@
-## [prototype Property (Array)](prototype-Property__Array.html)
+---
+title: prototype Property (Array)
+isChild: false
+---
+
+## prototype Property (Array) {prototype_property_array_title}
 
 ### Introduction 
 

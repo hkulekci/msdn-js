@@ -1,4 +1,9 @@
-## [getVarDate Method (Date) (JavaScript)](getVarDate-Method__Date.html)
+---
+title: getVarDate Method (Date) (JavaScript)
+isChild: false
+---
+
+## getVarDate Method (Date) (JavaScript) {getvardate_method_date_javascript_title}
 
 ### Introduction 
 

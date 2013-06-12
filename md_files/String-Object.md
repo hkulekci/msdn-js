@@ -1,4 +1,9 @@
-## [String Object (JavaScript)](String-Object.html)
+---
+title: String Object (JavaScript)
+isChild: false
+---
+
+## String Object (JavaScript) {string_object_javascript_title}
 
 ### Introduction 
 

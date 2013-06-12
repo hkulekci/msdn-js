@@ -1,4 +1,9 @@
-## [Math.pow Function (JavaScript)](Math.pow-Function.html)
+---
+title: Math.pow Function (JavaScript)
+isChild: false
+---
+
+## Math.pow Function (JavaScript) {mathpow_function_javascript_title}
 
 ### Introduction 
 

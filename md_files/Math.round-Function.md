@@ -1,4 +1,9 @@
-## [Math.round Function (JavaScript)](Math.round-Function.html)
+---
+title: Math.round Function (JavaScript)
+isChild: false
+---
+
+## Math.round Function (JavaScript) {mathround_function_javascript_title}
 
 ### Introduction 
 

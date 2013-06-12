@@ -1,4 +1,9 @@
-## [byteLength Property (Uint8Array)](byteLength-Property__Uint8Array.html)
+---
+title: byteLength Property (Uint8Array)
+isChild: false
+---
+
+## byteLength Property (Uint8Array) {bytelength_property_uint8array_title}
 
 ### Introduction 
 

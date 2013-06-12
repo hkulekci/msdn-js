@@ -1,4 +1,9 @@
-## [Number Constants (JavaScript)](Number-Constants.html)
+---
+title: Number Constants (JavaScript)
+isChild: false
+---
+
+## Number Constants (JavaScript) {number_constants_javascript_title}
 
 ### Introduction 
 

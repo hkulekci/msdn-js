@@ -1,4 +1,9 @@
-## [getFloat64 Method (DataView)](getFloat64-Method__DataView.html)
+---
+title: getFloat64 Method (DataView)
+isChild: false
+---
+
+## getFloat64 Method (DataView) {getfloat64_method_dataview_title}
 
 ### Introduction 
 

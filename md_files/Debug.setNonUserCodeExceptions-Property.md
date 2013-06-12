@@ -1,4 +1,9 @@
-## [Debug.setNonUserCodeExceptions Property](Debug.setNonUserCodeExceptions-Property.html)
+---
+title: Debug.setNonUserCodeExceptions Property
+isChild: false
+---
+
+## Debug.setNonUserCodeExceptions Property {debugsetnonusercodeexceptions_property_title}
 
 ### Introduction 
 

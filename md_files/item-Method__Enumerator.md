@@ -1,4 +1,9 @@
-## [item Method (Enumerator) (JavaScript)](item-Method__Enumerator.html)
+---
+title: item Method (Enumerator) (JavaScript)
+isChild: false
+---
+
+## item Method (Enumerator) (JavaScript) {item_method_enumerator_javascript_title}
 
 ### Introduction 
 

@@ -1,4 +1,9 @@
-## [switch Statement (JavaScript)](switch-Statement.html)
+---
+title: switch Statement (JavaScript)
+isChild: false
+---
+
+## switch Statement (JavaScript) {switch_statement_javascript_title}
 
 ### Introduction 
 

@@ -1,4 +1,9 @@
-## [prototype Property (Number)](prototype-Property__Number.html)
+---
+title: prototype Property (Number)
+isChild: false
+---
+
+## prototype Property (Number) {prototype_property_number_title}
 
 ### Introduction 
 

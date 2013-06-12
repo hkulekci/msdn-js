@@ -1,4 +1,9 @@
-## [bufferOffset Property (Float64Array)](bufferOffset-Property__Float64Array.html)
+---
+title: bufferOffset Property (Float64Array)
+isChild: false
+---
+
+## bufferOffset Property (Float64Array) {bufferoffset_property_float64array_title}
 
 ### Introduction 
 

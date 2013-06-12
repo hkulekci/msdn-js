@@ -1,4 +1,9 @@
-## [toPrecision Method (Number) (JavaScript)](toPrecision-Method__Number.html)
+---
+title: toPrecision Method (Number) (JavaScript)
+isChild: false
+---
+
+## toPrecision Method (Number) (JavaScript) {toprecision_method_number_javascript_title}
 
 ### Introduction 
 

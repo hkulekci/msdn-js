@@ -1,4 +1,9 @@
-## [length Property (String) (JavaScript)](length-Property__String.html)
+---
+title: length Property (String) (JavaScript)
+isChild: false
+---
+
+## length Property (String) (JavaScript) {length_property_string_javascript_title}
 
 ### Introduction 
 

@@ -1,4 +1,9 @@
-## [reverse Method (JavaScript)](reverse-Method.html)
+---
+title: reverse Method (JavaScript)
+isChild: false
+---
+
+## reverse Method (JavaScript) {reverse_method_javascript_title}
 
 ### Introduction 
 

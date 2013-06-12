@@ -1,4 +1,9 @@
-## [filter Method (Array) (JavaScript)](filter-Method__Array.html)
+---
+title: filter Method (Array) (JavaScript)
+isChild: false
+---
+
+## filter Method (Array) (JavaScript) {filter_method_array_javascript_title}
 
 ### Introduction 
 

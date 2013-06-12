@@ -1,4 +1,9 @@
-## [parseFloat Function (JavaScript)](parseFloat-Function.html)
+---
+title: parseFloat Function (JavaScript)
+isChild: false
+---
+
+## parseFloat Function (JavaScript) {parsefloat_function_javascript_title}
 
 ### Introduction 
 

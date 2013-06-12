@@ -1,4 +1,9 @@
-## [setUTCSeconds Method (Date) (JavaScript)](setUTCSeconds-Method__Date.html)
+---
+title: setUTCSeconds Method (Date) (JavaScript)
+isChild: false
+---
+
+## setUTCSeconds Method (Date) (JavaScript) {setutcseconds_method_date_javascript_title}
 
 ### Introduction 
 

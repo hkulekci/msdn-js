@@ -1,4 +1,9 @@
-## [Math.acos Function (JavaScript)](Math.acos-Function.html)
+---
+title: Math.acos Function (JavaScript)
+isChild: false
+---
+
+## Math.acos Function (JavaScript) {mathacos_function_javascript_title}
 
 ### Introduction 
 

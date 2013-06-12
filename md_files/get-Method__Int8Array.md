@@ -1,4 +1,9 @@
-## [get Method (Int8Array)](get-Method__Int8Array.html)
+---
+title: get Method (Int8Array)
+isChild: false
+---
+
+## get Method (Int8Array) {get_method_int8array_title}
 
 ### Introduction 
 

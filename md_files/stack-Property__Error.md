@@ -1,4 +1,9 @@
-## [stack Property (Error) (JavaScript)](stack-Property__Error.html)
+---
+title: stack Property (Error) (JavaScript)
+isChild: false
+---
+
+## stack Property (Error) (JavaScript) {stack_property_error_javascript_title}
 
 ### Introduction 
 

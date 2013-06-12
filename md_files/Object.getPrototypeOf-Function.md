@@ -1,4 +1,9 @@
-## [Object.getPrototypeOf Function (JavaScript)](Object.getPrototypeOf-Function.html)
+---
+title: Object.getPrototypeOf Function (JavaScript)
+isChild: false
+---
+
+## Object.getPrototypeOf Function (JavaScript) {objectgetprototypeof_function_javascript_title}
 
 ### Introduction 
 

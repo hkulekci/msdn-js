@@ -1,4 +1,9 @@
-## [for...in Statement (JavaScript)](for_in-Statement.html)
+---
+title: for...in Statement (JavaScript)
+isChild: false
+---
+
+## for...in Statement (JavaScript) {forin_statement_javascript_title}
 
 ### Introduction 
 

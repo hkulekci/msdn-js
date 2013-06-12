@@ -1,4 +1,9 @@
-## [Logical NOT Operator (!) (JavaScript)](Logical-NOT-Operator.html)
+---
+title: Logical NOT Operator (!) (JavaScript)
+isChild: false
+---
+
+## Logical NOT Operator (!) (JavaScript) {logical_not_operator_ex_javascript_title}
 
 ### Introduction 
 

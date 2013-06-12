@@ -1,4 +1,9 @@
-## [length Property (Int16Array)](length-Property__Int16Array.html)
+---
+title: length Property (Int16Array)
+isChild: false
+---
+
+## length Property (Int16Array) {length_property_int16array_title}
 
 ### Introduction 
 

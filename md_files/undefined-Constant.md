@@ -1,4 +1,9 @@
-## [undefined Constant (JavaScript)](undefined-Constant.html)
+---
+title: undefined Constant (JavaScript)
+isChild: false
+---
+
+## undefined Constant (JavaScript) {undefined_constant_javascript_title}
 
 ### Introduction 
 

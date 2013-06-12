@@ -1,4 +1,9 @@
-## [moveNext Method (Enumerator) (JavaScript)](moveNext-Method__Enumerator.html)
+---
+title: moveNext Method (Enumerator) (JavaScript)
+isChild: false
+---
+
+## moveNext Method (Enumerator) (JavaScript) {movenext_method_enumerator_javascript_title}
 
 ### Introduction 
 

@@ -1,4 +1,9 @@
-## [delete Operator (JavaScript)](delete-Operator.html)
+---
+title: delete Operator (JavaScript)
+isChild: false
+---
+
+## delete Operator (JavaScript) {delete_operator_javascript_title}
 
 ### Introduction 
 

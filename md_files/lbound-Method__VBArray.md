@@ -1,4 +1,9 @@
-## [lbound Method (VBArray) (JavaScript)](lbound-Method__VBArray.html)
+---
+title: lbound Method (VBArray) (JavaScript)
+isChild: false
+---
+
+## lbound Method (VBArray) (JavaScript) {lbound_method_vbarray_javascript_title}
 
 ### Introduction 
 

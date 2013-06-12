@@ -1,4 +1,9 @@
-## [concat Method (Array) (JavaScript)](concat-Method__Array.html)
+---
+title: concat Method (Array) (JavaScript)
+isChild: false
+---
+
+## concat Method (Array) (JavaScript) {concat_method_array_javascript_title}
 
 ### Introduction 
 

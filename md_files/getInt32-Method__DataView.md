@@ -1,4 +1,9 @@
-## [getInt32 Method (DataView)](getInt32-Method__DataView.html)
+---
+title: getInt32 Method (DataView)
+isChild: false
+---
+
+## getInt32 Method (DataView) {getint32_method_dataview_title}
 
 ### Introduction 
 

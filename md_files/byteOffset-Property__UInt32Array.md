@@ -1,4 +1,9 @@
-## [byteOffset Property (UInt32Array)](byteOffset-Property__UInt32Array.html)
+---
+title: byteOffset Property (UInt32Array)
+isChild: false
+---
+
+## byteOffset Property (UInt32Array) {byteoffset_property_uint32array_title}
 
 ### Introduction 
 

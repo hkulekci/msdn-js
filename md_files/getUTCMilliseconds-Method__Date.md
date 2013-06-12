@@ -1,4 +1,9 @@
-## [getUTCMilliseconds Method (Date) (JavaScript)](getUTCMilliseconds-Method__Date.html)
+---
+title: getUTCMilliseconds Method (Date) (JavaScript)
+isChild: false
+---
+
+## getUTCMilliseconds Method (Date) (JavaScript) {getutcmilliseconds_method_date_javascript_title}
 
 ### Introduction 
 

@@ -1,4 +1,9 @@
-## [Math.random Function (JavaScript)](Math.random-Function.html)
+---
+title: Math.random Function (JavaScript)
+isChild: false
+---
+
+## Math.random Function (JavaScript) {mathrandom_function_javascript_title}
 
 ### Introduction 
 

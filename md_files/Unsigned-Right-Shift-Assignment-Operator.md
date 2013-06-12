@@ -1,4 +1,9 @@
-## [Unsigned Right Shift Assignment Operator (&gt;&gt;&gt;=) (JavaScript)](Unsigned-Right-Shift-Assignment-Operator.html)
+---
+title: Unsigned Right Shift Assignment Operator (&gt;&gt;&gt;=) (JavaScript)
+isChild: false
+---
+
+## Unsigned Right Shift Assignment Operator (&gt;&gt;&gt;=) (JavaScript) {unsigned_right_shift_assignment_operator_gtgtgtequal_javascript_title}
 
 ### Introduction 
 

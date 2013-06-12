@@ -1,4 +1,9 @@
-## [lastParen Property ($+) (RegExp) (JavaScript)](lastParen-Property.html)
+---
+title: lastParen Property ($+) (RegExp) (JavaScript)
+isChild: false
+---
+
+## lastParen Property ($+) (RegExp) (JavaScript) {lastparen_property_dollarplus_regexp_javascript_title}
 
 ### Introduction 
 

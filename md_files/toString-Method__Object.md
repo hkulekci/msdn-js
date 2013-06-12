@@ -1,4 +1,9 @@
-## [toString Method (Object) (JavaScript)](toString-Method__Object.html)
+---
+title: toString Method (Object) (JavaScript)
+isChild: false
+---
+
+## toString Method (Object) (JavaScript) {tostring_method_object_javascript_title}
 
 ### Introduction 
 

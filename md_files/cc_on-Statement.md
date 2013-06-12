@@ -1,4 +1,9 @@
-## [@cc_on Statement (JavaScript)](cc_on-Statement.html)
+---
+title: @cc_on Statement (JavaScript)
+isChild: false
+---
+
+## @cc_on Statement (JavaScript) {@cc_on_statement_javascript_title}
 
 ### Introduction 
 

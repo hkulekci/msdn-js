@@ -1,4 +1,9 @@
-## [JavaScript Syntax Errors](JavaScript-Syntax-Errors.html)
+---
+title: JavaScript Syntax Errors
+isChild: false
+---
+
+## JavaScript Syntax Errors {javascript_syntax_errors_title}
 
 ### Introduction 
 

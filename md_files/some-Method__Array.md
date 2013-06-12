@@ -1,4 +1,9 @@
-## [some Method (Array) (JavaScript)](some-Method__Array.html)
+---
+title: some Method (Array) (JavaScript)
+isChild: false
+---
+
+## some Method (Array) (JavaScript) {some_method_array_javascript_title}
 
 ### Introduction 
 

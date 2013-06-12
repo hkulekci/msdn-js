@@ -1,4 +1,9 @@
-## [length Property (Int8Array)](length-Property__Int8Array.html)
+---
+title: length Property (Int8Array)
+isChild: false
+---
+
+## length Property (Int8Array) {length_property_int8array_title}
 
 ### Introduction 
 

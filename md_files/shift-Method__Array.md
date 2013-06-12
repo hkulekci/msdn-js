@@ -1,4 +1,9 @@
-## [shift Method (Array) (JavaScript)](shift-Method__Array.html)
+---
+title: shift Method (Array) (JavaScript)
+isChild: false
+---
+
+## shift Method (Array) (JavaScript) {shift_method_array_javascript_title}
 
 ### Introduction 
 

@@ -1,4 +1,9 @@
-## [getItem Method (VBArray) (JavaScript)](getItem-Method__VBArray.html)
+---
+title: getItem Method (VBArray) (JavaScript)
+isChild: false
+---
+
+## getItem Method (VBArray) (JavaScript) {getitem_method_vbarray_javascript_title}
 
 ### Introduction 
 

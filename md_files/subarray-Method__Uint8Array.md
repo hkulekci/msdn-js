@@ -1,4 +1,9 @@
-## [subarray Method (Uint8Array)](subarray-Method__Uint8Array.html)
+---
+title: subarray Method (Uint8Array)
+isChild: false
+---
+
+## subarray Method (Uint8Array) {subarray_method_uint8array_title}
 
 ### Introduction 
 

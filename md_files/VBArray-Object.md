@@ -1,4 +1,9 @@
-## [VBArray Object (JavaScript)](VBArray-Object.html)
+---
+title: VBArray Object (JavaScript)
+isChild: false
+---
+
+## VBArray Object (JavaScript) {vbarray_object_javascript_title}
 
 ### Introduction 
 

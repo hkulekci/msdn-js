@@ -1,4 +1,9 @@
-## [reduceRight Method (Array) (JavaScript)](reduceRight-Method__Array.html)
+---
+title: reduceRight Method (Array) (JavaScript)
+isChild: false
+---
+
+## reduceRight Method (Array) (JavaScript) {reduceright_method_array_javascript_title}
 
 ### Introduction 
 

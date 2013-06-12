@@ -1,4 +1,9 @@
-## [toLocaleLowerCase Method (String) (JavaScript)](toLocaleLowerCase-Method__String.html)
+---
+title: toLocaleLowerCase Method (String) (JavaScript)
+isChild: false
+---
+
+## toLocaleLowerCase Method (String) (JavaScript) {tolocalelowercase_method_string_javascript_title}
 
 ### Introduction 
 

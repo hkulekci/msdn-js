@@ -1,4 +1,9 @@
-## [byteOffset Property (Int8Array)](byteOffset-Property__Int8Array.html)
+---
+title: byteOffset Property (Int8Array)
+isChild: false
+---
+
+## byteOffset Property (Int8Array) {byteoffset_property_int8array_title}
 
 ### Introduction 
 

@@ -1,4 +1,9 @@
-## [prototype Property (String)](prototype-Property__String.html)
+---
+title: prototype Property (String)
+isChild: false
+---
+
+## prototype Property (String) {prototype_property_string_title}
 
 ### Introduction 
 

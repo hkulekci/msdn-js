@@ -1,4 +1,9 @@
-## [lastIndex Property (RegExp) (JavaScript)](lastIndex-Property__RegExp.html)
+---
+title: lastIndex Property (RegExp) (JavaScript)
+isChild: false
+---
+
+## lastIndex Property (RegExp) (JavaScript) {lastindex_property_regexp_javascript_title}
 
 ### Introduction 
 

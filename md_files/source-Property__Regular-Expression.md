@@ -1,4 +1,9 @@
-## [source Property (Regular Expression) (JavaScript)](source-Property__Regular-Expression.html)
+---
+title: source Property (Regular Expression) (JavaScript)
+isChild: false
+---
+
+## source Property (Regular Expression) (JavaScript) {source_property_regular_expression_javascript_title}
 
 ### Introduction 
 

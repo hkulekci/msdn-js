@@ -1,4 +1,9 @@
-## [get Method (Uint32Array)](get-Method__Uint32Array.html)
+---
+title: get Method (Uint32Array)
+isChild: false
+---
+
+## get Method (Uint32Array) {get_method_uint32array_title}
 
 ### Introduction 
 

@@ -1,4 +1,9 @@
-## [subarray Method (Int16Array)](subarray-Method__Int16Array.html)
+---
+title: subarray Method (Int16Array)
+isChild: false
+---
+
+## subarray Method (Int16Array) {subarray_method_int16array_title}
 
 ### Introduction 
 

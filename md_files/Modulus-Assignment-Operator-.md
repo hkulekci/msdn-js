@@ -1,4 +1,9 @@
-## [Modulus Assignment Operator (JavaScript)](Modulus-Assignment-Operator-.html)
+---
+title: Modulus Assignment Operator (JavaScript)
+isChild: false
+---
+
+## Modulus Assignment Operator (JavaScript) {modulus_assignment_operator_javascript_title}
 
 ### Introduction 
 

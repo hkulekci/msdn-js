@@ -1,4 +1,9 @@
-## [length Property (Array) (JavaScript)](length-Property__Array.html)
+---
+title: length Property (Array) (JavaScript)
+isChild: false
+---
+
+## length Property (Array) (JavaScript) {length_property_array_javascript_title}
 
 ### Introduction 
 

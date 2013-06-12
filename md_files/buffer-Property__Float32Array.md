@@ -1,4 +1,9 @@
-## [buffer Property (Float32Array)](buffer-Property__Float32Array.html)
+---
+title: buffer Property (Float32Array)
+isChild: false
+---
+
+## buffer Property (Float32Array) {buffer_property_float32array_title}
 
 ### Introduction 
 

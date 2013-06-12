@@ -1,4 +1,9 @@
-## [BYTES_PER_ELEMENT Constant (Float32Array)](BYTES_PER_ELEMENT-Constant__Float32Array.html)
+---
+title: BYTES_PER_ELEMENT Constant (Float32Array)
+isChild: false
+---
+
+## BYTES_PER_ELEMENT Constant (Float32Array) {bytes_per_element_constant_float32array_title}
 
 ### Introduction 
 

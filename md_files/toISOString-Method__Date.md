@@ -1,4 +1,9 @@
-## [toISOString Method (Date) (JavaScript)](toISOString-Method__Date.html)
+---
+title: toISOString Method (Date) (JavaScript)
+isChild: false
+---
+
+## toISOString Method (Date) (JavaScript) {toisostring_method_date_javascript_title}
 
 ### Introduction 
 

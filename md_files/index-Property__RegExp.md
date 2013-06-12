@@ -1,4 +1,9 @@
-## [index Property (RegExp) (JavaScript)](index-Property__RegExp.html)
+---
+title: index Property (RegExp) (JavaScript)
+isChild: false
+---
+
+## index Property (RegExp) (JavaScript) {index_property_regexp_javascript_title}
 
 ### Introduction 
 

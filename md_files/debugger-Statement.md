@@ -1,4 +1,9 @@
-## [debugger Statement (JavaScript)](debugger-Statement.html)
+---
+title: debugger Statement (JavaScript)
+isChild: false
+---
+
+## debugger Statement (JavaScript) {debugger_statement_javascript_title}
 
 ### Introduction 
 

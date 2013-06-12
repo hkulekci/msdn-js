@@ -1,4 +1,9 @@
-## [set Method (Uint16Array)](set-Method__Uint16Array.html)
+---
+title: set Method (Uint16Array)
+isChild: false
+---
+
+## set Method (Uint16Array) {set_method_uint16array_title}
 
 ### Introduction 
 

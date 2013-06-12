@@ -1,4 +1,9 @@
-## [valueOf Method (Array)](valueOf-Method__Array.html)
+---
+title: valueOf Method (Array)
+isChild: false
+---
+
+## valueOf Method (Array) {valueof_method_array_title}
 
 ### Introduction 
 

@@ -1,4 +1,9 @@
-## [toLocaleDateString Method (Date) (JavaScript)](toLocaleDateString-Method__Date.html)
+---
+title: toLocaleDateString Method (Date) (JavaScript)
+isChild: false
+---
+
+## toLocaleDateString Method (Date) (JavaScript) {tolocaledatestring_method_date_javascript_title}
 
 ### Introduction 
 

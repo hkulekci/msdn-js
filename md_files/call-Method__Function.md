@@ -1,4 +1,9 @@
-## [call Method (Function) (JavaScript)](call-Method__Function.html)
+---
+title: call Method (Function) (JavaScript)
+isChild: false
+---
+
+## call Method (Function) (JavaScript) {call_method_function_javascript_title}
 
 ### Introduction 
 

@@ -1,4 +1,9 @@
-## [search Method (String) (JavaScript)](search-Method__String.html)
+---
+title: search Method (String) (JavaScript)
+isChild: false
+---
+
+## search Method (String) (JavaScript) {search_method_string_javascript_title}
 
 ### Introduction 
 

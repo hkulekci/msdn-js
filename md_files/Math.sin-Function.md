@@ -1,4 +1,9 @@
-## [Math.sin Function (JavaScript)](Math.sin-Function.html)
+---
+title: Math.sin Function (JavaScript)
+isChild: false
+---
+
+## Math.sin Function (JavaScript) {mathsin_function_javascript_title}
 
 ### Introduction 
 

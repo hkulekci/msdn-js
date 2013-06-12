@@ -1,4 +1,9 @@
-## [constructor Property (Date)](constructor-Property__Date.html)
+---
+title: constructor Property (Date)
+isChild: false
+---
+
+## constructor Property (Date) {constructor_property_date_title}
 
 ### Introduction 
 

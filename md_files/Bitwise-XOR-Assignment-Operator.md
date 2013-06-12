@@ -1,4 +1,9 @@
-## [Bitwise XOR Assignment Operator (^=) (JavaScript)](Bitwise-XOR-Assignment-Operator.html)
+---
+title: Bitwise XOR Assignment Operator (^=) (JavaScript)
+isChild: false
+---
+
+## Bitwise XOR Assignment Operator (^=) (JavaScript) {bitwise_xor_assignment_operator_caretequal_javascript_title}
 
 ### Introduction 
 

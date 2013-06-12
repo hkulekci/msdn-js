@@ -1,4 +1,9 @@
-## [Multiplication Operator (*) (JavaScript)](Multiplication-Operator.html)
+---
+title: Multiplication Operator (*) (JavaScript)
+isChild: false
+---
+
+## Multiplication Operator (*) (JavaScript) {multiplication_operator_*_javascript_title}
 
 ### Introduction 
 

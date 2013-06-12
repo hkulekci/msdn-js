@@ -1,4 +1,9 @@
-## [exec Method (Regular Expression) (JavaScript)](exec-Method__Regular-Expression.html)
+---
+title: exec Method (Regular Expression) (JavaScript)
+isChild: false
+---
+
+## exec Method (Regular Expression) (JavaScript) {exec_method_regular_expression_javascript_title}
 
 ### Introduction 
 

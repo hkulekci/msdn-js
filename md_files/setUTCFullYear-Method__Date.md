@@ -1,4 +1,9 @@
-## [setUTCFullYear Method (Date) (JavaScript)](setUTCFullYear-Method__Date.html)
+---
+title: setUTCFullYear Method (Date) (JavaScript)
+isChild: false
+---
+
+## setUTCFullYear Method (Date) (JavaScript) {setutcfullyear_method_date_javascript_title}
 
 ### Introduction 
 

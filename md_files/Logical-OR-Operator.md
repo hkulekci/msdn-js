@@ -1,4 +1,9 @@
-## [Logical OR Operator (||) (JavaScript)](Logical-OR-Operator.html)
+---
+title: Logical OR Operator (||) (JavaScript)
+isChild: false
+---
+
+## Logical OR Operator (||) (JavaScript) {logical_or_operator_grepgrep_javascript_title}
 
 ### Introduction 
 

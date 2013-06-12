@@ -1,4 +1,9 @@
-## [Left Shift Assignment Operator (&lt;&lt;=) (JavaScript)](Left-Shift-Assignment-Operator.html)
+---
+title: Left Shift Assignment Operator (&lt;&lt;=) (JavaScript)
+isChild: false
+---
+
+## Left Shift Assignment Operator (&lt;&lt;=) (JavaScript) {left_shift_assignment_operator_ltltequal_javascript_title}
 
 ### Introduction 
 

@@ -1,4 +1,9 @@
-## [isNaN Function (JavaScript)](isNaN-Function.html)
+---
+title: isNaN Function (JavaScript)
+isChild: false
+---
+
+## isNaN Function (JavaScript) {isnan_function_javascript_title}
 
 ### Introduction 
 

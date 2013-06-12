@@ -1,4 +1,9 @@
-## [setUint32 Method (DataView)](setUint32-Method__DataView.html)
+---
+title: setUint32 Method (DataView)
+isChild: false
+---
+
+## setUint32 Method (DataView) {setuint32_method_dataview_title}
 
 ### Introduction 
 

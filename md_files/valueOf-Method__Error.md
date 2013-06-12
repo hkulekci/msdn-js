@@ -1,4 +1,9 @@
-## [valueOf Method (Error)](valueOf-Method__Error.html)
+---
+title: valueOf Method (Error)
+isChild: false
+---
+
+## valueOf Method (Error) {valueof_method_error_title}
 
 ### Introduction 
 

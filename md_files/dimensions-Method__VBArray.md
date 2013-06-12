@@ -1,4 +1,9 @@
-## [dimensions Method (VBArray) (JavaScript)](dimensions-Method__VBArray.html)
+---
+title: dimensions Method (VBArray) (JavaScript)
+isChild: false
+---
+
+## dimensions Method (VBArray) (JavaScript) {dimensions_method_vbarray_javascript_title}
 
 ### Introduction 
 

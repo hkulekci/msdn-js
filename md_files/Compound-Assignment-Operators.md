@@ -1,4 +1,9 @@
-## [Compound Assignment Operators (JavaScript)](Compound-Assignment-Operators.html)
+---
+title: Compound Assignment Operators (JavaScript)
+isChild: false
+---
+
+## Compound Assignment Operators (JavaScript) {compound_assignment_operators_javascript_title}
 
 ### Introduction 
 

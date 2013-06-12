@@ -1,4 +1,9 @@
-## [toArray Method (VBArray) (JavaScript)](toArray-Method__VBArray.html)
+---
+title: toArray Method (VBArray) (JavaScript)
+isChild: false
+---
+
+## toArray Method (VBArray) (JavaScript) {toarray_method_vbarray_javascript_title}
 
 ### Introduction 
 

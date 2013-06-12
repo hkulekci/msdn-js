@@ -1,4 +1,9 @@
-## [Bitwise AND Assignment Operator (&amp;=) (JavaScript)](Bitwise-AND-Assignment-Operator.html)
+---
+title: Bitwise AND Assignment Operator (&amp;=) (JavaScript)
+isChild: false
+---
+
+## Bitwise AND Assignment Operator (&amp;=) (JavaScript) {bitwise_and_assignment_operator_ampequal_javascript_title}
 
 ### Introduction 
 

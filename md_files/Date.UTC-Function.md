@@ -1,4 +1,9 @@
-## [Date.UTC Function (JavaScript)](Date.UTC-Function.html)
+---
+title: Date.UTC Function (JavaScript)
+isChild: false
+---
+
+## Date.UTC Function (JavaScript) {dateutc_function_javascript_title}
 
 ### Introduction 
 

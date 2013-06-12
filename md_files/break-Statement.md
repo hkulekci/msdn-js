@@ -1,4 +1,9 @@
-## [break Statement (JavaScript)](break-Statement.html)
+---
+title: break Statement (JavaScript)
+isChild: false
+---
+
+## break Statement (JavaScript) {break_statement_javascript_title}
 
 ### Introduction 
 

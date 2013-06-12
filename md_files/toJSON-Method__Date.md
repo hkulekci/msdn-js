@@ -1,4 +1,9 @@
-## [toJSON Method (Date) (JavaScript)](toJSON-Method__Date.html)
+---
+title: toJSON Method (Date) (JavaScript)
+isChild: false
+---
+
+## toJSON Method (Date) (JavaScript) {tojson_method_date_javascript_title}
 
 ### Introduction 
 

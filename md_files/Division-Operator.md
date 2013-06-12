@@ -1,4 +1,9 @@
-## [Division Operator (/) (JavaScript)](Division-Operator.html)
+---
+title: Division Operator (/) (JavaScript)
+isChild: false
+---
+
+## Division Operator (/) (JavaScript) {division_operator_/_javascript_title}
 
 ### Introduction 
 

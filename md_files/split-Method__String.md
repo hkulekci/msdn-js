@@ -1,4 +1,9 @@
-## [split Method (String) (JavaScript)](split-Method__String.html)
+---
+title: split Method (String) (JavaScript)
+isChild: false
+---
+
+## split Method (String) (JavaScript) {split_method_string_javascript_title}
 
 ### Introduction 
 

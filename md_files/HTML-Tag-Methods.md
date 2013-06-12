@@ -1,4 +1,9 @@
-## [HTML Tag Methods (JavaScript)](HTML-Tag-Methods.html)
+---
+title: HTML Tag Methods (JavaScript)
+isChild: false
+---
+
+## HTML Tag Methods (JavaScript) {html_tag_methods_javascript_title}
 
 ### Introduction 
 

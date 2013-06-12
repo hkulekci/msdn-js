@@ -1,4 +1,9 @@
-## [Debug Object (JavaScript)](Debug-Object.html)
+---
+title: Debug Object (JavaScript)
+isChild: false
+---
+
+## Debug Object (JavaScript) {debug_object_javascript_title}
 
 ### Introduction 
 

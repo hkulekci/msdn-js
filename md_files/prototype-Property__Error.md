@@ -1,4 +1,9 @@
-## [prototype Property (Error)](prototype-Property__Error.html)
+---
+title: prototype Property (Error)
+isChild: false
+---
+
+## prototype Property (Error) {prototype_property_error_title}
 
 ### Introduction 
 

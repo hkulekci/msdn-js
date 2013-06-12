@@ -1,4 +1,9 @@
-## [Math.log Function (JavaScript)](Math.log-Function.html)
+---
+title: Math.log Function (JavaScript)
+isChild: false
+---
+
+## Math.log Function (JavaScript) {mathlog_function_javascript_title}
 
 ### Introduction 
 

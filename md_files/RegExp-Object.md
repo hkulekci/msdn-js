@@ -1,4 +1,9 @@
-## [RegExp Object (JavaScript)](RegExp-Object.html)
+---
+title: RegExp Object (JavaScript)
+isChild: false
+---
+
+## RegExp Object (JavaScript) {regexp_object_javascript_title}
 
 ### Introduction 
 

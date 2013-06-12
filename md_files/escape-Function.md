@@ -1,4 +1,9 @@
-## [escape Function (JavaScript)](escape-Function.html)
+---
+title: escape Function (JavaScript)
+isChild: false
+---
+
+## escape Function (JavaScript) {escape_function_javascript_title}
 
 ### Introduction 
 

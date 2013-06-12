@@ -1,4 +1,9 @@
-## [ActiveXObject Object (JavaScript)](ActiveXObject-Object.html)
+---
+title: ActiveXObject Object (JavaScript)
+isChild: false
+---
+
+## ActiveXObject Object (JavaScript) {activexobject_object_javascript_title}
 
 ### Introduction 
 

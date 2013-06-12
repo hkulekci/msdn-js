@@ -1,4 +1,9 @@
-## [length Property (UInt16Array)](length-Property__UInt16Array.html)
+---
+title: length Property (UInt16Array)
+isChild: false
+---
+
+## length Property (UInt16Array) {length_property_uint16array_title}
 
 ### Introduction 
 

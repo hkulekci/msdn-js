@@ -1,4 +1,9 @@
-## [DataView Object](DataView-Object.html)
+---
+title: DataView Object
+isChild: false
+---
+
+## DataView Object {dataview_object_title}
 
 ### Introduction 
 

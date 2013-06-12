@@ -1,4 +1,9 @@
-## [JSON.stringify Function (JavaScript)](JSON.stringify-Function.html)
+---
+title: JSON.stringify Function (JavaScript)
+isChild: false
+---
+
+## JSON.stringify Function (JavaScript) {jsonstringify_function_javascript_title}
 
 ### Introduction 
 

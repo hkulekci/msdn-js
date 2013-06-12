@@ -1,4 +1,9 @@
-## [buffer Property (DataView)](buffer-Property__DataView.html)
+---
+title: buffer Property (DataView)
+isChild: false
+---
+
+## buffer Property (DataView) {buffer_property_dataview_title}
 
 ### Introduction 
 

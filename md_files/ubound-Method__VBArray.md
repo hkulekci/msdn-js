@@ -1,4 +1,9 @@
-## [ubound Method (VBArray) (JavaScript)](ubound-Method__VBArray.html)
+---
+title: ubound Method (VBArray) (JavaScript)
+isChild: false
+---
+
+## ubound Method (VBArray) (JavaScript) {ubound_method_vbarray_javascript_title}
 
 ### Introduction 
 

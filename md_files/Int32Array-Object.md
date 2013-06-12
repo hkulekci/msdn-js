@@ -1,4 +1,9 @@
-## [Int32Array Object](Int32Array-Object.html)
+---
+title: Int32Array Object
+isChild: false
+---
+
+## Int32Array Object {int32array_object_title}
 
 ### Introduction 
 

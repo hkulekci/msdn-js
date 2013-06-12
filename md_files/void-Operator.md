@@ -1,4 +1,9 @@
-## [void Operator (JavaScript)](void-Operator.html)
+---
+title: void Operator (JavaScript)
+isChild: false
+---
+
+## void Operator (JavaScript) {void_operator_javascript_title}
 
 ### Introduction 
 

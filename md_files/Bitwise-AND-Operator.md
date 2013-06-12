@@ -1,4 +1,9 @@
-## [Bitwise AND Operator (&amp;) (JavaScript)](Bitwise-AND-Operator.html)
+---
+title: Bitwise AND Operator (&amp;) (JavaScript)
+isChild: false
+---
+
+## Bitwise AND Operator (&amp;) (JavaScript) {bitwise_and_operator_amp_javascript_title}
 
 ### Introduction 
 

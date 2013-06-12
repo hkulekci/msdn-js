@@ -1,4 +1,9 @@
-## [JavaScript Methods](JavaScript-Methods.html)
+---
+title: JavaScript Methods
+isChild: false
+---
+
+## JavaScript Methods {javascript_methods_title}
 
 ### Introduction 
 

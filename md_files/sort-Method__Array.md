@@ -1,4 +1,9 @@
-## [sort Method (Array) (JavaScript)](sort-Method__Array.html)
+---
+title: sort Method (Array) (JavaScript)
+isChild: false
+---
+
+## sort Method (Array) (JavaScript) {sort_method_array_javascript_title}
 
 ### Introduction 
 

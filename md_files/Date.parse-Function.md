@@ -1,4 +1,9 @@
-## [Date.parse Function (JavaScript)](Date.parse-Function.html)
+---
+title: Date.parse Function (JavaScript)
+isChild: false
+---
+
+## Date.parse Function (JavaScript) {dateparse_function_javascript_title}
 
 ### Introduction 
 

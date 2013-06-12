@@ -1,4 +1,9 @@
-## [JSON.parse Function (JavaScript)](JSON.parse-Function.html)
+---
+title: JSON.parse Function (JavaScript)
+isChild: false
+---
+
+## JSON.parse Function (JavaScript) {jsonparse_function_javascript_title}
 
 ### Introduction 
 

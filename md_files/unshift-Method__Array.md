@@ -1,4 +1,9 @@
-## [unshift Method (Array) (JavaScript)](unshift-Method__Array.html)
+---
+title: unshift Method (Array) (JavaScript)
+isChild: false
+---
+
+## unshift Method (Array) (JavaScript) {unshift_method_array_javascript_title}
 
 ### Introduction 
 

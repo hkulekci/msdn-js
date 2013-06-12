@@ -1,4 +1,9 @@
-## [ScriptEngineBuildVersion Function (JavaScript)](ScriptEngineBuildVersion-Function.html)
+---
+title: ScriptEngineBuildVersion Function (JavaScript)
+isChild: false
+---
+
+## ScriptEngineBuildVersion Function (JavaScript) {scriptenginebuildversion_function_javascript_title}
 
 ### Introduction 
 

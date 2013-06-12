@@ -1,4 +1,9 @@
-## [Enumerator Object (JavaScript)](Enumerator-Object.html)
+---
+title: Enumerator Object (JavaScript)
+isChild: false
+---
+
+## Enumerator Object (JavaScript) {enumerator_object_javascript_title}
 
 ### Introduction 
 

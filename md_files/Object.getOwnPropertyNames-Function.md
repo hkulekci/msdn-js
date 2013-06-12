@@ -1,4 +1,9 @@
-## [Object.getOwnPropertyNames Function (JavaScript)](Object.getOwnPropertyNames-Function.html)
+---
+title: Object.getOwnPropertyNames Function (JavaScript)
+isChild: false
+---
+
+## Object.getOwnPropertyNames Function (JavaScript) {objectgetownpropertynames_function_javascript_title}
 
 ### Introduction 
 

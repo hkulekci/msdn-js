@@ -1,4 +1,9 @@
-## [byteLength Property (Float64Array)](byteLength-Property__Float64Array.html)
+---
+title: byteLength Property (Float64Array)
+isChild: false
+---
+
+## byteLength Property (Float64Array) {bytelength_property_float64array_title}
 
 ### Introduction 
 

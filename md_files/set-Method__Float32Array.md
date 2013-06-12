@@ -1,4 +1,9 @@
-## [set Method (Float32Array)](set-Method__Float32Array.html)
+---
+title: set Method (Float32Array)
+isChild: false
+---
+
+## set Method (Float32Array) {set_method_float32array_title}
 
 ### Introduction 
 

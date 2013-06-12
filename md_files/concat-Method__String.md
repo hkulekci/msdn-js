@@ -1,4 +1,9 @@
-## [concat Method (String) (JavaScript)](concat-Method__String.html)
+---
+title: concat Method (String) (JavaScript)
+isChild: false
+---
+
+## concat Method (String) (JavaScript) {concat_method_string_javascript_title}
 
 ### Introduction 
 

@@ -1,4 +1,9 @@
-## [multiline Property (Regular Expression) (JavaScript)](multiline-Property__Regular-Expression.html)
+---
+title: multiline Property (Regular Expression) (JavaScript)
+isChild: false
+---
+
+## multiline Property (Regular Expression) (JavaScript) {multiline_property_regular_expression_javascript_title}
 
 ### Introduction 
 

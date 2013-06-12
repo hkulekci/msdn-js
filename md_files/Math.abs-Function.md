@@ -1,4 +1,9 @@
-## [Math.abs Function (JavaScript)](Math.abs-Function.html)
+---
+title: Math.abs Function (JavaScript)
+isChild: false
+---
+
+## Math.abs Function (JavaScript) {mathabs_function_javascript_title}
 
 ### Introduction 
 

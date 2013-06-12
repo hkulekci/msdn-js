@@ -1,4 +1,9 @@
-## [valueOf Method (Number)](valueOf-Method__Number.html)
+---
+title: valueOf Method (Number)
+isChild: false
+---
+
+## valueOf Method (Number) {valueof_method_number_title}
 
 ### Introduction 
 

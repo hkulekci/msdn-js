@@ -1,4 +1,9 @@
-## [Addition Operator (+) (JavaScript)](Addition-Operator.html)
+---
+title: Addition Operator (+) (JavaScript)
+isChild: false
+---
+
+## Addition Operator (+) (JavaScript) {addition_operator_plus_javascript_title}
 
 ### Introduction 
 

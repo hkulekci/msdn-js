@@ -1,4 +1,9 @@
-## [buffer Property (Uint32Array)](buffer-Property__Uint32Array.html)
+---
+title: buffer Property (Uint32Array)
+isChild: false
+---
+
+## buffer Property (Uint32Array) {buffer_property_uint32array_title}
 
 ### Introduction 
 

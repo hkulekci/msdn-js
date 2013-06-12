@@ -1,4 +1,9 @@
-## [toUTCString Method (Date) (JavaScript)](toUTCString-Method__Date.html)
+---
+title: toUTCString Method (Date) (JavaScript)
+isChild: false
+---
+
+## toUTCString Method (Date) (JavaScript) {toutcstring_method_date_javascript_title}
 
 ### Introduction 
 

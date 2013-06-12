@@ -1,4 +1,9 @@
-## [var Statement (JavaScript)](var-Statement.html)
+---
+title: var Statement (JavaScript)
+isChild: false
+---
+
+## var Statement (JavaScript) {var_statement_javascript_title}
 
 ### Introduction 
 

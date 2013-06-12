@@ -1,4 +1,9 @@
-## [getUTCDay Method (Date) (JavaScript)](getUTCDay-Method__Date.html)
+---
+title: getUTCDay Method (Date) (JavaScript)
+isChild: false
+---
+
+## getUTCDay Method (Date) (JavaScript) {getutcday_method_date_javascript_title}
 
 ### Introduction 
 

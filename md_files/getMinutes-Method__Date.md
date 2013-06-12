@@ -1,4 +1,9 @@
-## [getMinutes Method (Date) (JavaScript)](getMinutes-Method__Date.html)
+---
+title: getMinutes Method (Date) (JavaScript)
+isChild: false
+---
+
+## getMinutes Method (Date) (JavaScript) {getminutes_method_date_javascript_title}
 
 ### Introduction 
 

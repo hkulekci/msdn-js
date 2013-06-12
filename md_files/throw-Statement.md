@@ -1,4 +1,9 @@
-## [throw Statement (JavaScript)](throw-Statement.html)
+---
+title: throw Statement (JavaScript)
+isChild: false
+---
+
+## throw Statement (JavaScript) {throw_statement_javascript_title}
 
 ### Introduction 
 

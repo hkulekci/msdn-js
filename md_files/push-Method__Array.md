@@ -1,4 +1,9 @@
-## [push Method (Array) (JavaScript)](push-Method__Array.html)
+---
+title: push Method (Array) (JavaScript)
+isChild: false
+---
+
+## push Method (Array) (JavaScript) {push_method_array_javascript_title}
 
 ### Introduction 
 

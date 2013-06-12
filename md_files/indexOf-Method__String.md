@@ -1,4 +1,9 @@
-## [indexOf Method (String) (JavaScript)](indexOf-Method__String.html)
+---
+title: indexOf Method (String) (JavaScript)
+isChild: false
+---
+
+## indexOf Method (String) (JavaScript) {indexof_method_string_javascript_title}
 
 ### Introduction 
 

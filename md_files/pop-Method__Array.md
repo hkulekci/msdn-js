@@ -1,4 +1,9 @@
-## [pop Method (Array) (JavaScript)](pop-Method__Array.html)
+---
+title: pop Method (Array) (JavaScript)
+isChild: false
+---
+
+## pop Method (Array) (JavaScript) {pop_method_array_javascript_title}
 
 ### Introduction 
 

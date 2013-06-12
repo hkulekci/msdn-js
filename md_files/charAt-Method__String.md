@@ -1,4 +1,9 @@
-## [charAt Method (String) (JavaScript)](charAt-Method__String.html)
+---
+title: charAt Method (String) (JavaScript)
+isChild: false
+---
+
+## charAt Method (String) (JavaScript) {charat_method_string_javascript_title}
 
 ### Introduction 
 

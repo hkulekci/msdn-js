@@ -1,4 +1,9 @@
-## [Subtraction Operator (-) (JavaScript)](Subtraction-Operator.html)
+---
+title: Subtraction Operator (-) (JavaScript)
+isChild: false
+---
+
+## Subtraction Operator (-) (JavaScript) {subtraction_operator__javascript_title}
 
 ### Introduction 
 

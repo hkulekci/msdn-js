@@ -1,4 +1,9 @@
-## [getMilliseconds Method (Date) (JavaScript)](getMilliseconds-Method__Date.html)
+---
+title: getMilliseconds Method (Date) (JavaScript)
+isChild: false
+---
+
+## getMilliseconds Method (Date) (JavaScript) {getmilliseconds_method_date_javascript_title}
 
 ### Introduction 
 

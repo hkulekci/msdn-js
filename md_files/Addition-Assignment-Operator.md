@@ -1,4 +1,9 @@
-## [Addition Assignment Operator (+=) (JavaScript)](Addition-Assignment-Operator.html)
+---
+title: Addition Assignment Operator (+=) (JavaScript)
+isChild: false
+---
+
+## Addition Assignment Operator (+=) (JavaScript) {addition_assignment_operator_plusequal_javascript_title}
 
 ### Introduction 
 

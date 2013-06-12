@@ -1,4 +1,9 @@
-## [Object.defineProperty Function (JavaScript)](Object.defineProperty-Function.html)
+---
+title: Object.defineProperty Function (JavaScript)
+isChild: false
+---
+
+## Object.defineProperty Function (JavaScript) {objectdefineproperty_function_javascript_title}
 
 ### Introduction 
 

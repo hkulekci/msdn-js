@@ -1,4 +1,9 @@
-## [toString Method (String)](toString-Method__String.html)
+---
+title: toString Method (String)
+isChild: false
+---
+
+## toString Method (String) {tostring_method_string_title}
 
 ### Introduction 
 

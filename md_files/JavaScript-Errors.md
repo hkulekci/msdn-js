@@ -1,4 +1,9 @@
-## [JavaScript Errors](JavaScript-Errors.html)
+---
+title: JavaScript Errors
+isChild: false
+---
+
+## JavaScript Errors {javascript_errors_title}
 
 ### Introduction 
 

@@ -1,4 +1,9 @@
-## [setSeconds Method (Date) (JavaScript)](setSeconds-Method__Date.html)
+---
+title: setSeconds Method (Date) (JavaScript)
+isChild: false
+---
+
+## setSeconds Method (Date) (JavaScript) {setseconds_method_date_javascript_title}
 
 ### Introduction 
 

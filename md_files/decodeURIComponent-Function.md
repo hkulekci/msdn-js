@@ -1,4 +1,9 @@
-## [decodeURIComponent Function (JavaScript)](decodeURIComponent-Function.html)
+---
+title: decodeURIComponent Function (JavaScript)
+isChild: false
+---
+
+## decodeURIComponent Function (JavaScript) {decodeuricomponent_function_javascript_title}
 
 ### Introduction 
 

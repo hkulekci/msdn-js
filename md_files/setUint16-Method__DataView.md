@@ -1,4 +1,9 @@
-## [setUint16 Method (DataView)](setUint16-Method__DataView.html)
+---
+title: setUint16 Method (DataView)
+isChild: false
+---
+
+## setUint16 Method (DataView) {setuint16_method_dataview_title}
 
 ### Introduction 
 

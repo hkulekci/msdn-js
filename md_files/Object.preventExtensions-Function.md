@@ -1,4 +1,9 @@
-## [Object.preventExtensions Function (JavaScript)](Object.preventExtensions-Function.html)
+---
+title: Object.preventExtensions Function (JavaScript)
+isChild: false
+---
+
+## Object.preventExtensions Function (JavaScript) {objectpreventextensions_function_javascript_title}
 
 ### Introduction 
 

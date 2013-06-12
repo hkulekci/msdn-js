@@ -1,4 +1,9 @@
-## [setFloat64 Method (DataView)](setFloat64-Method__DataView.html)
+---
+title: setFloat64 Method (DataView)
+isChild: false
+---
+
+## setFloat64 Method (DataView) {setfloat64_method_dataview_title}
 
 ### Introduction 
 

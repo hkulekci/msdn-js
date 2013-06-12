@@ -1,4 +1,9 @@
-## [Math.atan Function (JavaScript)](Math.atan-Function.html)
+---
+title: Math.atan Function (JavaScript)
+isChild: false
+---
+
+## Math.atan Function (JavaScript) {mathatan_function_javascript_title}
 
 ### Introduction 
 

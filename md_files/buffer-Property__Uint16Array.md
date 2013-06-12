@@ -1,4 +1,9 @@
-## [buffer Property (Uint16Array)](buffer-Property__Uint16Array.html)
+---
+title: buffer Property (Uint16Array)
+isChild: false
+---
+
+## buffer Property (Uint16Array) {buffer_property_uint16array_title}
 
 ### Introduction 
 

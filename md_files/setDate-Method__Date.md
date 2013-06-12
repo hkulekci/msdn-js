@@ -1,4 +1,9 @@
-## [setDate Method (Date) (JavaScript)](setDate-Method__Date.html)
+---
+title: setDate Method (Date) (JavaScript)
+isChild: false
+---
+
+## setDate Method (Date) (JavaScript) {setdate_method_date_javascript_title}
 
 ### Introduction 
 

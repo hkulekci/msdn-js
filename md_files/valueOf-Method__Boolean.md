@@ -1,4 +1,9 @@
-## [valueOf Method (Boolean)](valueOf-Method__Boolean.html)
+---
+title: valueOf Method (Boolean)
+isChild: false
+---
+
+## valueOf Method (Boolean) {valueof_method_boolean_title}
 
 ### Introduction 
 

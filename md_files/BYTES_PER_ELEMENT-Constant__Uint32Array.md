@@ -1,4 +1,9 @@
-## [BYTES_PER_ELEMENT Constant (Uint32Array)](BYTES_PER_ELEMENT-Constant__Uint32Array.html)
+---
+title: BYTES_PER_ELEMENT Constant (Uint32Array)
+isChild: false
+---
+
+## BYTES_PER_ELEMENT Constant (Uint32Array) {bytes_per_element_constant_uint32array_title}
 
 ### Introduction 
 

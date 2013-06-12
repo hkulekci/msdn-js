@@ -1,4 +1,9 @@
-## [leftContext Property ($`) (RegExp) (JavaScript)](leftContext-Property.html)
+---
+title: leftContext Property ($`) (RegExp) (JavaScript)
+isChild: false
+---
+
+## leftContext Property ($`) (RegExp) (JavaScript) {leftcontext_property_dollar`_regexp_javascript_title}
 
 ### Introduction 
 

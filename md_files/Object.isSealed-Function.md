@@ -1,4 +1,9 @@
-## [Object.isSealed Function (JavaScript)](Object.isSealed-Function.html)
+---
+title: Object.isSealed Function (JavaScript)
+isChild: false
+---
+
+## Object.isSealed Function (JavaScript) {objectissealed_function_javascript_title}
 
 ### Introduction 
 

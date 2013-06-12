@@ -1,4 +1,9 @@
-## [Math Object (JavaScript)](Math-Object.html)
+---
+title: Math Object (JavaScript)
+isChild: false
+---
+
+## Math Object (JavaScript) {math_object_javascript_title}
 
 ### Introduction 
 

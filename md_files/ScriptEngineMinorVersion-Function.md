@@ -1,4 +1,9 @@
-## [ScriptEngineMinorVersion Function (JavaScript)](ScriptEngineMinorVersion-Function.html)
+---
+title: ScriptEngineMinorVersion Function (JavaScript)
+isChild: false
+---
+
+## ScriptEngineMinorVersion Function (JavaScript) {scriptengineminorversion_function_javascript_title}
 
 ### Introduction 
 

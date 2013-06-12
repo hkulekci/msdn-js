@@ -1,4 +1,9 @@
-## [length Property (Float32Array)](length-Property__Float32Array.html)
+---
+title: length Property (Float32Array)
+isChild: false
+---
+
+## length Property (Float32Array) {length_property_float32array_title}
 
 ### Introduction 
 

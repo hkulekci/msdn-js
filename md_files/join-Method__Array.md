@@ -1,4 +1,9 @@
-## [join Method (Array) (JavaScript)](join-Method__Array.html)
+---
+title: join Method (Array) (JavaScript)
+isChild: false
+---
+
+## join Method (Array) (JavaScript) {join_method_array_javascript_title}
 
 ### Introduction 
 

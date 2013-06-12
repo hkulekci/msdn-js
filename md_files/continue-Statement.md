@@ -1,4 +1,9 @@
-## [continue Statement (JavaScript)](continue-Statement.html)
+---
+title: continue Statement (JavaScript)
+isChild: false
+---
+
+## continue Statement (JavaScript) {continue_statement_javascript_title}
 
 ### Introduction 
 

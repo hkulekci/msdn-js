@@ -1,4 +1,9 @@
-## [toFixed Method (Number) (JavaScript)](toFixed-Method__Number.html)
+---
+title: toFixed Method (Number) (JavaScript)
+isChild: false
+---
+
+## toFixed Method (Number) (JavaScript) {tofixed_method_number_javascript_title}
 
 ### Introduction 
 

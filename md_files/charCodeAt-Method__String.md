@@ -1,4 +1,9 @@
-## [charCodeAt Method (String) (JavaScript)](charCodeAt-Method__String.html)
+---
+title: charCodeAt Method (String) (JavaScript)
+isChild: false
+---
+
+## charCodeAt Method (String) (JavaScript) {charcodeat_method_string_javascript_title}
 
 ### Introduction 
 

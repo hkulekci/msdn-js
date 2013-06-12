@@ -1,4 +1,9 @@
-## [@set Statement (JavaScript)](set-Statement.html)
+---
+title: @set Statement (JavaScript)
+isChild: false
+---
+
+## @set Statement (JavaScript) {@set_statement_javascript_title}
 
 ### Introduction 
 

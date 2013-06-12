@@ -1,4 +1,9 @@
-## [get Method (Uint16Array)](get-Method__Uint16Array.html)
+---
+title: get Method (Uint16Array)
+isChild: false
+---
+
+## get Method (Uint16Array) {get_method_uint16array_title}
 
 ### Introduction 
 

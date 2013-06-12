@@ -1,4 +1,9 @@
-## [JavaScript Constants](JavaScript-Constants.html)
+---
+title: JavaScript Constants
+isChild: false
+---
+
+## JavaScript Constants {javascript_constants_title}
 
 ### Introduction 
 

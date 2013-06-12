@@ -1,4 +1,9 @@
-## [return Statement (JavaScript)](return-Statement.html)
+---
+title: return Statement (JavaScript)
+isChild: false
+---
+
+## return Statement (JavaScript) {return_statement_javascript_title}
 
 ### Introduction 
 

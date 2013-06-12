@@ -1,4 +1,9 @@
-## [Debug.writeln Function (JavaScript)](Debug.writeln-Function.html)
+---
+title: Debug.writeln Function (JavaScript)
+isChild: false
+---
+
+## Debug.writeln Function (JavaScript) {debugwriteln_function_javascript_title}
 
 ### Introduction 
 

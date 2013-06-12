@@ -1,4 +1,9 @@
-## [reduce Method (Array) (JavaScript)](reduce-Method__Array.html)
+---
+title: reduce Method (Array) (JavaScript)
+isChild: false
+---
+
+## reduce Method (Array) (JavaScript) {reduce_method_array_javascript_title}
 
 ### Introduction 
 

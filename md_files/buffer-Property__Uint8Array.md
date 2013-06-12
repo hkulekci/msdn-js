@@ -1,4 +1,9 @@
-## [buffer Property (Uint8Array)](buffer-Property__Uint8Array.html)
+---
+title: buffer Property (Uint8Array)
+isChild: false
+---
+
+## buffer Property (Uint8Array) {buffer_property_uint8array_title}
 
 ### Introduction 
 

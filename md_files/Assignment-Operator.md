@@ -1,4 +1,9 @@
-## [Assignment Operator (=) (JavaScript)](Assignment-Operator.html)
+---
+title: Assignment Operator (=) (JavaScript)
+isChild: false
+---
+
+## Assignment Operator (=) (JavaScript) {assignment_operator_equal_javascript_title}
 
 ### Introduction 
 

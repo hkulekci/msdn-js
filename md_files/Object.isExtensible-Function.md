@@ -1,4 +1,9 @@
-## [Object.isExtensible Function (JavaScript)](Object.isExtensible-Function.html)
+---
+title: Object.isExtensible Function (JavaScript)
+isChild: false
+---
+
+## Object.isExtensible Function (JavaScript) {objectisextensible_function_javascript_title}
 
 ### Introduction 
 

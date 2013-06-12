@@ -1,4 +1,9 @@
-## [JavaScript Operators](JavaScript-Operators.html)
+---
+title: JavaScript Operators
+isChild: false
+---
+
+## JavaScript Operators {javascript_operators_title}
 
 ### Introduction 
 

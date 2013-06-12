@@ -1,4 +1,9 @@
-## [ArrayBuffer Object](ArrayBuffer-Object.html)
+---
+title: ArrayBuffer Object
+isChild: false
+---
+
+## ArrayBuffer Object {arraybuffer_object_title}
 
 ### Introduction 
 

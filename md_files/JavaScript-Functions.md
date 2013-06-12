@@ -1,4 +1,9 @@
-## [JavaScript Functions](JavaScript-Functions.html)
+---
+title: JavaScript Functions
+isChild: false
+---
+
+## JavaScript Functions {javascript_functions_title}
 
 ### Introduction 
 

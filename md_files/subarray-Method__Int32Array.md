@@ -1,4 +1,9 @@
-## [subarray Method (Int32Array)](subarray-Method__Int32Array.html)
+---
+title: subarray Method (Int32Array)
+isChild: false
+---
+
+## subarray Method (Int32Array) {subarray_method_int32array_title}
 
 ### Introduction 
 

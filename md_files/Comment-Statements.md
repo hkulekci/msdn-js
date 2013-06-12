@@ -1,4 +1,9 @@
-## [Comment Statements (JavaScript)](Comment-Statements.html)
+---
+title: Comment Statements (JavaScript)
+isChild: false
+---
+
+## Comment Statements (JavaScript) {comment_statements_javascript_title}
 
 ### Introduction 
 

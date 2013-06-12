@@ -1,4 +1,9 @@
-## [Global Object (JavaScript)](Global-Object.html)
+---
+title: Global Object (JavaScript)
+isChild: false
+---
+
+## Global Object (JavaScript) {global_object_javascript_title}
 
 ### Introduction 
 

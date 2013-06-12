@@ -1,4 +1,9 @@
-## [use strict Directive](use-strict-Directive.html)
+---
+title: use strict Directive
+isChild: false
+---
+
+## use strict Directive {use_strict_directive_title}
 
 ### Introduction 
 

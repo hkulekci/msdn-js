@@ -1,4 +1,9 @@
-## [set Method (Uint8Array)](set-Method__Uint8Array.html)
+---
+title: set Method (Uint8Array)
+isChild: false
+---
+
+## set Method (Uint8Array) {set_method_uint8array_title}
 
 ### Introduction 
 

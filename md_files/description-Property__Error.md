@@ -1,4 +1,9 @@
-## [description Property (Error) (JavaScript)](description-Property__Error.html)
+---
+title: description Property (Error) (JavaScript)
+isChild: false
+---
+
+## description Property (Error) (JavaScript) {description_property_error_javascript_title}
 
 ### Introduction 
 

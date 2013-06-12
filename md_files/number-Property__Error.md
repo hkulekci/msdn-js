@@ -1,4 +1,9 @@
-## [number Property (Error) (JavaScript)](number-Property__Error.html)
+---
+title: number Property (Error) (JavaScript)
+isChild: false
+---
+
+## number Property (Error) (JavaScript) {number_property_error_javascript_title}
 
 ### Introduction 
 

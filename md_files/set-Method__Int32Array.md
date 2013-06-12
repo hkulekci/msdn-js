@@ -1,4 +1,9 @@
-## [set Method (Int32Array)](set-Method__Int32Array.html)
+---
+title: set Method (Int32Array)
+isChild: false
+---
+
+## set Method (Int32Array) {set_method_int32array_title}
 
 ### Introduction 
 

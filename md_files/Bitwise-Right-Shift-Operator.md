@@ -1,4 +1,9 @@
-## [Bitwise Right Shift Operator (&gt;&gt;) (JavaScript)](Bitwise-Right-Shift-Operator.html)
+---
+title: Bitwise Right Shift Operator (&gt;&gt;) (JavaScript)
+isChild: false
+---
+
+## Bitwise Right Shift Operator (&gt;&gt;) (JavaScript) {bitwise_right_shift_operator_gtgt_javascript_title}
 
 ### Introduction 
 

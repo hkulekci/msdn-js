@@ -1,4 +1,9 @@
-## [Labeled Statement (JavaScript)](Labeled-Statement.html)
+---
+title: Labeled Statement (JavaScript)
+isChild: false
+---
+
+## Labeled Statement (JavaScript) {labeled_statement_javascript_title}
 
 ### Introduction 
 

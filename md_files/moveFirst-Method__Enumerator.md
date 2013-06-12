@@ -1,4 +1,9 @@
-## [moveFirst Method (Enumerator) (JavaScript)](moveFirst-Method__Enumerator.html)
+---
+title: moveFirst Method (Enumerator) (JavaScript)
+isChild: false
+---
+
+## moveFirst Method (Enumerator) (JavaScript) {movefirst_method_enumerator_javascript_title}
 
 ### Introduction 
 

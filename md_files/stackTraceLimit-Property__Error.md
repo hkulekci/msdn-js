@@ -1,4 +1,9 @@
-## [stackTraceLimit Property (Error) (JavaScript)](stackTraceLimit-Property__Error.html)
+---
+title: stackTraceLimit Property (Error) (JavaScript)
+isChild: false
+---
+
+## stackTraceLimit Property (Error) (JavaScript) {stacktracelimit_property_error_javascript_title}
 
 ### Introduction 
 

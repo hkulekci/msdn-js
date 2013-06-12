@@ -1,4 +1,9 @@
-## [Math.asin Function (JavaScript)](Math.asin-Function.html)
+---
+title: Math.asin Function (JavaScript)
+isChild: false
+---
+
+## Math.asin Function (JavaScript) {mathasin_function_javascript_title}
 
 ### Introduction 
 

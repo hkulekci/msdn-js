@@ -1,4 +1,9 @@
-## [eval Function (JavaScript)](eval-Function.html)
+---
+title: eval Function (JavaScript)
+isChild: false
+---
+
+## eval Function (JavaScript) {eval_function_javascript_title}
 
 ### Introduction 
 

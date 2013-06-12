@@ -1,4 +1,9 @@
-## [bind Method (Function) (JavaScript)](bind-Method__Function.html)
+---
+title: bind Method (Function) (JavaScript)
+isChild: false
+---
+
+## bind Method (Function) (JavaScript) {bind_method_function_javascript_title}
 
 ### Introduction 
 

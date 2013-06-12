@@ -1,4 +1,9 @@
-## [ignoreCase Property (Regular Expression) (JavaScript)](ignoreCase-Property__Regular-Expression.html)
+---
+title: ignoreCase Property (Regular Expression) (JavaScript)
+isChild: false
+---
+
+## ignoreCase Property (Regular Expression) (JavaScript) {ignorecase_property_regular_expression_javascript_title}
 
 ### Introduction 
 

@@ -1,4 +1,9 @@
-## [Float64Array Object](Float64Array-Object.html)
+---
+title: Float64Array Object
+isChild: false
+---
+
+## Float64Array Object {float64array_object_title}
 
 ### Introduction 
 

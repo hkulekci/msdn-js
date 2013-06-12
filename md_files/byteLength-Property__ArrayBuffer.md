@@ -1,4 +1,9 @@
-## [byteLength Property (ArrayBuffer)](byteLength-Property__ArrayBuffer.html)
+---
+title: byteLength Property (ArrayBuffer)
+isChild: false
+---
+
+## byteLength Property (ArrayBuffer) {bytelength_property_arraybuffer_title}
 
 ### Introduction 
 

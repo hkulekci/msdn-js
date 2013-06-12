@@ -1,4 +1,9 @@
-## [Logical AND Operator (&amp;&amp;) (JavaScript)](Logical-AND-Operator.html)
+---
+title: Logical AND Operator (&amp;&amp;) (JavaScript)
+isChild: false
+---
+
+## Logical AND Operator (&amp;&amp;) (JavaScript) {logical_and_operator_ampamp_javascript_title}
 
 ### Introduction 
 

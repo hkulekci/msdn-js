@@ -1,4 +1,9 @@
-## [constructor Property (Array)](constructor-Property__Array.html)
+---
+title: constructor Property (Array)
+isChild: false
+---
+
+## constructor Property (Array) {constructor_property_array_title}
 
 ### Introduction 
 

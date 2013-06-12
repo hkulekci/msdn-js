@@ -1,4 +1,9 @@
-## [encodeURI Function (JavaScript)](encodeURI-Function.html)
+---
+title: encodeURI Function (JavaScript)
+isChild: false
+---
+
+## encodeURI Function (JavaScript) {encodeuri_function_javascript_title}
 
 ### Introduction 
 

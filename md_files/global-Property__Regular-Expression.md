@@ -1,4 +1,9 @@
-## [global Property (Regular Expression) (JavaScript)](global-Property__Regular-Expression.html)
+---
+title: global Property (Regular Expression) (JavaScript)
+isChild: false
+---
+
+## global Property (Regular Expression) (JavaScript) {global_property_regular_expression_javascript_title}
 
 ### Introduction 
 

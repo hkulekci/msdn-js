@@ -1,4 +1,9 @@
-## [constructor Property (Object) (JavaScript)](constructor-Property__Object.html)
+---
+title: constructor Property (Object) (JavaScript)
+isChild: false
+---
+
+## constructor Property (Object) (JavaScript) {constructor_property_object_javascript_title}
 
 ### Introduction 
 

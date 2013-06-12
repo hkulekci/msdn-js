@@ -1,4 +1,9 @@
-## [Date.now Function (JavaScript)](Date.now-Function.html)
+---
+title: Date.now Function (JavaScript)
+isChild: false
+---
+
+## Date.now Function (JavaScript) {datenow_function_javascript_title}
 
 ### Introduction 
 

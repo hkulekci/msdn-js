@@ -1,4 +1,9 @@
-## [Uint8Array Object](Uint8Array-Object.html)
+---
+title: Uint8Array Object
+isChild: false
+---
+
+## Uint8Array Object {uint8array_object_title}
 
 ### Introduction 
 

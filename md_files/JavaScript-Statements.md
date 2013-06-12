@@ -1,4 +1,9 @@
-## [JavaScript Statements](JavaScript-Statements.html)
+---
+title: JavaScript Statements
+isChild: false
+---
+
+## JavaScript Statements {javascript_statements_title}
 
 ### Introduction 
 

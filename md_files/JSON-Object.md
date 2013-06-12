@@ -1,4 +1,9 @@
-## [JSON Object (JavaScript)](JSON-Object.html)
+---
+title: JSON Object (JavaScript)
+isChild: false
+---
+
+## JSON Object (JavaScript) {json_object_javascript_title}
 
 ### Introduction 
 

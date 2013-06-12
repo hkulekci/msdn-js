@@ -1,4 +1,9 @@
-## [byteOffset Property (Float32Array)](byteOffset-Property__Float32Array.html)
+---
+title: byteOffset Property (Float32Array)
+isChild: false
+---
+
+## byteOffset Property (Float32Array) {byteoffset_property_float32array_title}
 
 ### Introduction 
 

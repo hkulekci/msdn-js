@@ -1,4 +1,9 @@
-## [arguments Property (Function) (JavaScript)](arguments-Property__Function.html)
+---
+title: arguments Property (Function) (JavaScript)
+isChild: false
+---
+
+## arguments Property (Function) (JavaScript) {arguments_property_function_javascript_title}
 
 ### Introduction 
 

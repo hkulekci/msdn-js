@@ -1,4 +1,9 @@
-## [Array Object (JavaScript)](Array-Object.html)
+---
+title: Array Object (JavaScript)
+isChild: false
+---
+
+## Array Object (JavaScript) {array_object_javascript_title}
 
 ### Introduction 
 

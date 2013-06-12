@@ -1,4 +1,9 @@
-## [lastIndexOf Method (String) (JavaScript)](lastIndexOf-Method__String.html)
+---
+title: lastIndexOf Method (String) (JavaScript)
+isChild: false
+---
+
+## lastIndexOf Method (String) (JavaScript) {lastindexof_method_string_javascript_title}
 
 ### Introduction 
 

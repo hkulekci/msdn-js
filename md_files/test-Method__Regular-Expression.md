@@ -1,4 +1,9 @@
-## [test Method (Regular Expression) (JavaScript)](test-Method__Regular-Expression.html)
+---
+title: test Method (Regular Expression) (JavaScript)
+isChild: false
+---
+
+## test Method (Regular Expression) (JavaScript) {test_method_regular_expression_javascript_title}
 
 ### Introduction 
 

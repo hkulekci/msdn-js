@@ -1,4 +1,9 @@
-## [Debug.debuggerEnabled Property](Debug.debuggerEnabled-Property.html)
+---
+title: Debug.debuggerEnabled Property
+isChild: false
+---
+
+## Debug.debuggerEnabled Property {debugdebuggerenabled_property_title}
 
 ### Introduction 
 

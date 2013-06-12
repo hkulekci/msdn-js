@@ -1,4 +1,9 @@
-## [Array.isArray Function (JavaScript)](Array.isArray-Function.html)
+---
+title: Array.isArray Function (JavaScript)
+isChild: false
+---
+
+## Array.isArray Function (JavaScript) {arrayisarray_function_javascript_title}
 
 ### Introduction 
 

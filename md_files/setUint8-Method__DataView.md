@@ -1,4 +1,9 @@
-## [setUint8 Method (DataView)](setUint8-Method__DataView.html)
+---
+title: setUint8 Method (DataView)
+isChild: false
+---
+
+## setUint8 Method (DataView) {setuint8_method_dataview_title}
 
 ### Introduction 
 

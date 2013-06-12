@@ -1,4 +1,9 @@
-## [Division Assignment Operator (/=) (JavaScript)](Division-Assignment-Operator.html)
+---
+title: Division Assignment Operator (/=) (JavaScript)
+isChild: false
+---
+
+## Division Assignment Operator (/=) (JavaScript) {division_assignment_operator_/equal_javascript_title}
 
 ### Introduction 
 

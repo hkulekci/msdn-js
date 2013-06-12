@@ -1,4 +1,9 @@
-## [Modulus Operator (JavaScript)](Modulus-Operator.html)
+---
+title: Modulus Operator (JavaScript)
+isChild: false
+---
+
+## Modulus Operator (JavaScript) {modulus_operator_javascript_title}
 
 ### Introduction 
 

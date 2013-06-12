@@ -1,4 +1,9 @@
-## [constructor Property (Boolean)](constructor-Property__Boolean.html)
+---
+title: constructor Property (Boolean)
+isChild: false
+---
+
+## constructor Property (Boolean) {constructor_property_boolean_title}
 
 ### Introduction 
 

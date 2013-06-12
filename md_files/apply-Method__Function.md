@@ -1,4 +1,9 @@
-## [apply Method (Function) (JavaScript)](apply-Method__Function.html)
+---
+title: apply Method (Function) (JavaScript)
+isChild: false
+---
+
+## apply Method (Function) (JavaScript) {apply_method_function_javascript_title}
 
 ### Introduction 
 

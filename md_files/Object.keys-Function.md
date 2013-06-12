@@ -1,4 +1,9 @@
-## [Object.keys Function (JavaScript)](Object.keys-Function.html)
+---
+title: Object.keys Function (JavaScript)
+isChild: false
+---
+
+## Object.keys Function (JavaScript) {objectkeys_function_javascript_title}
 
 ### Introduction 
 

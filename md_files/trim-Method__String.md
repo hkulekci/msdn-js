@@ -1,4 +1,9 @@
-## [trim Method (String) (JavaScript)](trim-Method__String.html)
+---
+title: trim Method (String) (JavaScript)
+isChild: false
+---
+
+## trim Method (String) (JavaScript) {trim_method_string_javascript_title}
 
 ### Introduction 
 

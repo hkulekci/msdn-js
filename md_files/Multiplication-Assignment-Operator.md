@@ -1,4 +1,9 @@
-## [Multiplication Assignment Operator (*=) (JavaScript)](Multiplication-Assignment-Operator.html)
+---
+title: Multiplication Assignment Operator (*=) (JavaScript)
+isChild: false
+---
+
+## Multiplication Assignment Operator (*=) (JavaScript) {multiplication_assignment_operator_*equal_javascript_title}
 
 ### Introduction 
 

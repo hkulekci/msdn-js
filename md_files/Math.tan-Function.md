@@ -1,4 +1,9 @@
-## [Math.tan Function (JavaScript)](Math.tan-Function.html)
+---
+title: Math.tan Function (JavaScript)
+isChild: false
+---
+
+## Math.tan Function (JavaScript) {mathtan_function_javascript_title}
 
 ### Introduction 
 

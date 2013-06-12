@@ -1,4 +1,9 @@
-## [Comparison Operators (JavaScript)](Comparison-Operators.html)
+---
+title: Comparison Operators (JavaScript)
+isChild: false
+---
+
+## Comparison Operators (JavaScript) {comparison_operators_javascript_title}
 
 ### Introduction 
 

@@ -1,4 +1,9 @@
-## [Object Object (JavaScript)](Object-Object.html)
+---
+title: Object Object (JavaScript)
+isChild: false
+---
+
+## Object Object (JavaScript) {object_object_javascript_title}
 
 ### Introduction 
 

@@ -1,4 +1,9 @@
-## [propertyIsEnumerable Method (Object) (JavaScript)](propertyIsEnumerable-Method__Object.html)
+---
+title: propertyIsEnumerable Method (Object) (JavaScript)
+isChild: false
+---
+
+## propertyIsEnumerable Method (Object) (JavaScript) {propertyisenumerable_method_object_javascript_title}
 
 ### Introduction 
 

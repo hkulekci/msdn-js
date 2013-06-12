@@ -1,4 +1,9 @@
-## [input Property ($_) (RegExp) (JavaScript)](input-Property.html)
+---
+title: input Property ($_) (RegExp) (JavaScript)
+isChild: false
+---
+
+## input Property ($_) (RegExp) (JavaScript) {input_property_dollar__regexp_javascript_title}
 
 ### Introduction 
 

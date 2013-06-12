@@ -1,4 +1,9 @@
-## [JavaScript Objects](JavaScript-Objects.html)
+---
+title: JavaScript Objects
+isChild: false
+---
+
+## JavaScript Objects {javascript_objects_title}
 
 ### Introduction 
 

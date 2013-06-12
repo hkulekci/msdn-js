@@ -1,4 +1,9 @@
-## [with Statement (JavaScript)](with-Statement.html)
+---
+title: with Statement (JavaScript)
+isChild: false
+---
+
+## with Statement (JavaScript) {with_statement_javascript_title}
 
 ### Introduction 
 

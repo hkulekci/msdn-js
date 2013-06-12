@@ -1,4 +1,9 @@
-## [length Property (Float64Array)](length-Property__Float64Array.html)
+---
+title: length Property (Float64Array)
+isChild: false
+---
+
+## length Property (Float64Array) {length_property_float64array_title}
 
 ### Introduction 
 

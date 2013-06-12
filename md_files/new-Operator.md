@@ -1,4 +1,9 @@
-## [new Operator (JavaScript)](new-Operator.html)
+---
+title: new Operator (JavaScript)
+isChild: false
+---
+
+## new Operator (JavaScript) {new_operator_javascript_title}
 
 ### Introduction 
 

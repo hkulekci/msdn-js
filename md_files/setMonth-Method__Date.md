@@ -1,4 +1,9 @@
-## [setMonth Method (Date) (JavaScript)](setMonth-Method__Date.html)
+---
+title: setMonth Method (Date) (JavaScript)
+isChild: false
+---
+
+## setMonth Method (Date) (JavaScript) {setmonth_method_date_javascript_title}
 
 ### Introduction 
 

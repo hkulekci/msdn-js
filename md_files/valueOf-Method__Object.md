@@ -1,4 +1,9 @@
-## [valueOf Method (Object) (JavaScript)](valueOf-Method__Object.html)
+---
+title: valueOf Method (Object) (JavaScript)
+isChild: false
+---
+
+## valueOf Method (Object) (JavaScript) {valueof_method_object_javascript_title}
 
 ### Introduction 
 

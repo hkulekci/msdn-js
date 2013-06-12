@@ -1,4 +1,9 @@
-## [Object.getOwnPropertyDescriptor Function (JavaScript)](Object.getOwnPropertyDescriptor-Function.html)
+---
+title: Object.getOwnPropertyDescriptor Function (JavaScript)
+isChild: false
+---
+
+## Object.getOwnPropertyDescriptor Function (JavaScript) {objectgetownpropertydescriptor_function_javascript_title}
 
 ### Introduction 
 

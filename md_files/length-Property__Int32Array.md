@@ -1,4 +1,9 @@
-## [length Property (Int32Array)](length-Property__Int32Array.html)
+---
+title: length Property (Int32Array)
+isChild: false
+---
+
+## length Property (Int32Array) {length_property_int32array_title}
 
 ### Introduction 
 

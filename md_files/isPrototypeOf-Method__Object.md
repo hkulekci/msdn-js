@@ -1,4 +1,9 @@
-## [isPrototypeOf Method (Object) (JavaScript)](isPrototypeOf-Method__Object.html)
+---
+title: isPrototypeOf Method (Object) (JavaScript)
+isChild: false
+---
+
+## isPrototypeOf Method (Object) (JavaScript) {isprototypeof_method_object_javascript_title}
 
 ### Introduction 
 

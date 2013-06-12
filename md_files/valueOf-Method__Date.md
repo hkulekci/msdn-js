@@ -1,4 +1,9 @@
-## [valueOf Method (Date)](valueOf-Method__Date.html)
+---
+title: valueOf Method (Date)
+isChild: false
+---
+
+## valueOf Method (Date) {valueof_method_date_title}
 
 ### Introduction 
 

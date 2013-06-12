@@ -1,4 +1,9 @@
-## [Int8Array Object](Int8Array-Object.html)
+---
+title: Int8Array Object
+isChild: false
+---
+
+## Int8Array Object {int8array_object_title}
 
 ### Introduction 
 

@@ -1,4 +1,9 @@
-## [subarray Method (Float32Array)](subarray-Method__Float32Array.html)
+---
+title: subarray Method (Float32Array)
+isChild: false
+---
+
+## subarray Method (Float32Array) {subarray_method_float32array_title}
 
 ### Introduction 
 

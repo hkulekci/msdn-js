@@ -1,4 +1,9 @@
-## [substring Method (String) (JavaScript)](substring-Method__String.html)
+---
+title: substring Method (String) (JavaScript)
+isChild: false
+---
+
+## substring Method (String) (JavaScript) {substring_method_string_javascript_title}
 
 ### Introduction 
 

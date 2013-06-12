@@ -1,4 +1,9 @@
-## [localeCompare Method (String) (JavaScript)](localeCompare-Method__String.html)
+---
+title: localeCompare Method (String) (JavaScript)
+isChild: false
+---
+
+## localeCompare Method (String) (JavaScript) {localecompare_method_string_javascript_title}
 
 ### Introduction 
 

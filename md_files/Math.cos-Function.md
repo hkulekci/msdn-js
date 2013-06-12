@@ -1,4 +1,9 @@
-## [Math.cos Function (JavaScript)](Math.cos-Function.html)
+---
+title: Math.cos Function (JavaScript)
+isChild: false
+---
+
+## Math.cos Function (JavaScript) {mathcos_function_javascript_title}
 
 ### Introduction 
 

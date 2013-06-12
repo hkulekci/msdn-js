@@ -1,4 +1,9 @@
-## [getInt16 Method (DataView)](getInt16-Method__DataView.html)
+---
+title: getInt16 Method (DataView)
+isChild: false
+---
+
+## getInt16 Method (DataView) {getint16_method_dataview_title}
 
 ### Introduction 
 

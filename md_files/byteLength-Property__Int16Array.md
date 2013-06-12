@@ -1,4 +1,9 @@
-## [byteLength Property (Int16Array)](byteLength-Property__Int16Array.html)
+---
+title: byteLength Property (Int16Array)
+isChild: false
+---
+
+## byteLength Property (Int16Array) {bytelength_property_int16array_title}
 
 ### Introduction 
 

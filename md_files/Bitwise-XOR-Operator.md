@@ -1,4 +1,9 @@
-## [Bitwise XOR Operator (^) (JavaScript)](Bitwise-XOR-Operator.html)
+---
+title: Bitwise XOR Operator (^) (JavaScript)
+isChild: false
+---
+
+## Bitwise XOR Operator (^) (JavaScript) {bitwise_xor_operator_caret_javascript_title}
 
 ### Introduction 
 

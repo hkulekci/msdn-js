@@ -1,4 +1,9 @@
-## [prototype Property (Object) (JavaScript)](prototype-Property__Object.html)
+---
+title: prototype Property (Object) (JavaScript)
+isChild: false
+---
+
+## prototype Property (Object) (JavaScript) {prototype_property_object_javascript_title}
 
 ### Introduction 
 

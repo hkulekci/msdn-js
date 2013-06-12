@@ -1,4 +1,9 @@
-## [GetObject Function (JavaScript)](GetObject-Function.html)
+---
+title: GetObject Function (JavaScript)
+isChild: false
+---
+
+## GetObject Function (JavaScript) {getobject_function_javascript_title}
 
 ### Introduction 
 

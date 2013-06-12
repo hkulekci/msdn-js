@@ -1,4 +1,9 @@
-## [toGMTString Method (Date) (JavaScript)](toGMTString-Method__Date.html)
+---
+title: toGMTString Method (Date) (JavaScript)
+isChild: false
+---
+
+## toGMTString Method (Date) (JavaScript) {togmtstring_method_date_javascript_title}
 
 ### Introduction 
 

@@ -1,4 +1,9 @@
-## [Object.isFrozen Function (JavaScript)](Object.isFrozen-Function.html)
+---
+title: Object.isFrozen Function (JavaScript)
+isChild: false
+---
+
+## Object.isFrozen Function (JavaScript) {objectisfrozen_function_javascript_title}
 
 ### Introduction 
 

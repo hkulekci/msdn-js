@@ -1,4 +1,9 @@
-## [hasOwnProperty Method (Object) (JavaScript)](hasOwnProperty-Method__Object.html)
+---
+title: hasOwnProperty Method (Object) (JavaScript)
+isChild: false
+---
+
+## hasOwnProperty Method (Object) (JavaScript) {hasownproperty_method_object_javascript_title}
 
 ### Introduction 
 

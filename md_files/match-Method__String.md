@@ -1,4 +1,9 @@
-## [match Method (String) (JavaScript)](match-Method__String.html)
+---
+title: match Method (String) (JavaScript)
+isChild: false
+---
+
+## match Method (String) (JavaScript) {match_method_string_javascript_title}
 
 ### Introduction 
 

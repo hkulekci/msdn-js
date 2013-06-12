@@ -1,4 +1,9 @@
-## [Math.floor Function (JavaScript)](Math.floor-Function.html)
+---
+title: Math.floor Function (JavaScript)
+isChild: false
+---
+
+## Math.floor Function (JavaScript) {mathfloor_function_javascript_title}
 
 ### Introduction 
 

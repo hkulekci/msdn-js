@@ -1,4 +1,9 @@
-## [toString Method (Date)](toString-Method__Date.html)
+---
+title: toString Method (Date)
+isChild: false
+---
+
+## toString Method (Date) {tostring_method_date_title}
 
 ### Introduction 
 

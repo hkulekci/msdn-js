@@ -1,4 +1,9 @@
-## [lastMatch Property ($&amp;) (RegExp) (JavaScript)](lastMatch-Property.html)
+---
+title: lastMatch Property ($&amp;) (RegExp) (JavaScript)
+isChild: false
+---
+
+## lastMatch Property ($&amp;) (RegExp) (JavaScript) {lastmatch_property_dollaramp_regexp_javascript_title}
 
 ### Introduction 
 

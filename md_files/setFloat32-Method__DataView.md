@@ -1,4 +1,9 @@
-## [setFloat32 Method (DataView)](setFloat32-Method__DataView.html)
+---
+title: setFloat32 Method (DataView)
+isChild: false
+---
+
+## setFloat32 Method (DataView) {setfloat32_method_dataview_title}
 
 ### Introduction 
 

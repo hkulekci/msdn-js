@@ -1,4 +1,9 @@
-## [Math.sqrt Function (JavaScript)](Math.sqrt-Function.html)
+---
+title: Math.sqrt Function (JavaScript)
+isChild: false
+---
+
+## Math.sqrt Function (JavaScript) {mathsqrt_function_javascript_title}
 
 ### Introduction 
 

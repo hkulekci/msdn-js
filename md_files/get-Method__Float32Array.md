@@ -1,4 +1,9 @@
-## [get Method (Float32Array)](get-Method__Float32Array.html)
+---
+title: get Method (Float32Array)
+isChild: false
+---
+
+## get Method (Float32Array) {get_method_float32array_title}
 
 ### Introduction 
 

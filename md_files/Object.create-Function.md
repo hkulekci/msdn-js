@@ -1,4 +1,9 @@
-## [Object.create Function (JavaScript)](Object.create-Function.html)
+---
+title: Object.create Function (JavaScript)
+isChild: false
+---
+
+## Object.create Function (JavaScript) {objectcreate_function_javascript_title}
 
 ### Introduction 
 

@@ -1,4 +1,9 @@
-## [Increment (++) and Decrement (--) Operators (JavaScript)](Increment.html)
+---
+title: Increment (++) and Decrement (--) Operators (JavaScript)
+isChild: false
+---
+
+## Increment (++) and Decrement (--) Operators (JavaScript) {increment_plusplus_and_decrement__operators_javascript_title}
 
 ### Introduction 
 

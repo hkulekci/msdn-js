@@ -1,4 +1,9 @@
-## [isFinite Function (JavaScript)](isFinite-Function.html)
+---
+title: isFinite Function (JavaScript)
+isChild: false
+---
+
+## isFinite Function (JavaScript) {isfinite_function_javascript_title}
 
 ### Introduction 
 

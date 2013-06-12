@@ -1,4 +1,9 @@
-## [toString Method (Array)](toString-Method__Array.html)
+---
+title: toString Method (Array)
+isChild: false
+---
+
+## toString Method (Array) {tostring_method_array_title}
 
 ### Introduction 
 

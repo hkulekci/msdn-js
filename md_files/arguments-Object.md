@@ -1,4 +1,9 @@
-## [arguments Object (JavaScript)](arguments-Object.html)
+---
+title: arguments Object (JavaScript)
+isChild: false
+---
+
+## arguments Object (JavaScript) {arguments_object_javascript_title}
 
 ### Introduction 
 

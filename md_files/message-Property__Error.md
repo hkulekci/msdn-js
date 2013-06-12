@@ -1,4 +1,9 @@
-## [message Property (Error) (JavaScript)](message-Property__Error.html)
+---
+title: message Property (Error) (JavaScript)
+isChild: false
+---
+
+## message Property (Error) (JavaScript) {message_property_error_javascript_title}
 
 ### Introduction 
 

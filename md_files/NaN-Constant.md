@@ -1,4 +1,9 @@
-## [NaN Constant (JavaScript)](NaN-Constant.html)
+---
+title: NaN Constant (JavaScript)
+isChild: false
+---
+
+## NaN Constant (JavaScript) {nan_constant_javascript_title}
 
 ### Introduction 
 

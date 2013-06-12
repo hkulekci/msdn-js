@@ -1,4 +1,9 @@
-## [atEnd Method (Enumerator) (JavaScript)](atEnd-Method__Enumerator.html)
+---
+title: atEnd Method (Enumerator) (JavaScript)
+isChild: false
+---
+
+## atEnd Method (Enumerator) (JavaScript) {atend_method_enumerator_javascript_title}
 
 ### Introduction 
 

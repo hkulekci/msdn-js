@@ -1,4 +1,9 @@
-## [byteOffset Property (Int16Array)](byteOffset-Property__Int16Array.html)
+---
+title: byteOffset Property (Int16Array)
+isChild: false
+---
+
+## byteOffset Property (Int16Array) {byteoffset_property_int16array_title}
 
 ### Introduction 
 

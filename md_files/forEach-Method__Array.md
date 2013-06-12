@@ -1,4 +1,9 @@
-## [forEach Method (Array) (JavaScript)](forEach-Method__Array.html)
+---
+title: forEach Method (Array) (JavaScript)
+isChild: false
+---
+
+## forEach Method (Array) (JavaScript) {foreach_method_array_javascript_title}
 
 ### Introduction 
 

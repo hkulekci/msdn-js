@@ -1,4 +1,9 @@
-## [length Property (Function) (JavaScript)](length-Property__Function.html)
+---
+title: length Property (Function) (JavaScript)
+isChild: false
+---
+
+## length Property (Function) (JavaScript) {length_property_function_javascript_title}
 
 ### Introduction 
 

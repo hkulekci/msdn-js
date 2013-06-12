@@ -1,4 +1,9 @@
-## [in Operator (JavaScript)](in-Operator.html)
+---
+title: in Operator (JavaScript)
+isChild: false
+---
+
+## in Operator (JavaScript) {in_operator_javascript_title}
 
 ### Introduction 
 

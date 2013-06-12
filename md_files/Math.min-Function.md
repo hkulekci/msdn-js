@@ -1,4 +1,9 @@
-## [Math.min Function (JavaScript)](Math.min-Function.html)
+---
+title: Math.min Function (JavaScript)
+isChild: false
+---
+
+## Math.min Function (JavaScript) {mathmin_function_javascript_title}
 
 ### Introduction 
 

@@ -1,4 +1,9 @@
-## [Infinity Constant (JavaScript)](Infinity-Constant.html)
+---
+title: Infinity Constant (JavaScript)
+isChild: false
+---
+
+## Infinity Constant (JavaScript) {infinity_constant_javascript_title}
 
 ### Introduction 
 

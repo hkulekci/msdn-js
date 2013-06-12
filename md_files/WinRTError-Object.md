@@ -1,4 +1,9 @@
-## [WinRTError Object (JavaScript)](WinRTError-Object.html)
+---
+title: WinRTError Object (JavaScript)
+isChild: false
+---
+
+## WinRTError Object (JavaScript) {winrterror_object_javascript_title}
 
 ### Introduction 
 

@@ -1,4 +1,9 @@
-## [$1...$9 Properties (RegExp) (JavaScript)](1_9-Properties__RegExp.html)
+---
+title: $1...$9 Properties (RegExp) (JavaScript)
+isChild: false
+---
+
+## $1...$9 Properties (RegExp) (JavaScript) {dollar1dollar9_properties_regexp_javascript_title}
 
 ### Introduction 
 

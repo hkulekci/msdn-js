@@ -1,4 +1,9 @@
-## [Bitwise OR Assignment Operator (|=) (JavaScript)](Bitwise-OR-Assignment-Operator.html)
+---
+title: Bitwise OR Assignment Operator (|=) (JavaScript)
+isChild: false
+---
+
+## Bitwise OR Assignment Operator (|=) (JavaScript) {bitwise_or_assignment_operator_grepequal_javascript_title}
 
 ### Introduction 
 

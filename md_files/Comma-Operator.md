@@ -1,4 +1,9 @@
-## [Comma Operator (,) (JavaScript)](Comma-Operator.html)
+---
+title: Comma Operator (,) (JavaScript)
+isChild: false
+---
+
+## Comma Operator (,) (JavaScript) {comma_operator__javascript_title}
 
 ### Introduction 
 

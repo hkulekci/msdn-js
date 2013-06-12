@@ -1,4 +1,9 @@
-## [toLocaleUpperCase Method (String) (JavaScript)](toLocaleUpperCase-Method__String.html)
+---
+title: toLocaleUpperCase Method (String) (JavaScript)
+isChild: false
+---
+
+## toLocaleUpperCase Method (String) (JavaScript) {tolocaleuppercase_method_string_javascript_title}
 
 ### Introduction 
 

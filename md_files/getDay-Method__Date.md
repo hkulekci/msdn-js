@@ -1,4 +1,9 @@
-## [getDay Method (Date) (JavaScript)](getDay-Method__Date.html)
+---
+title: getDay Method (Date) (JavaScript)
+isChild: false
+---
+
+## getDay Method (Date) (JavaScript) {getday_method_date_javascript_title}
 
 ### Introduction 
 

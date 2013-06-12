@@ -1,4 +1,9 @@
-## [typeof Operator (JavaScript)](typeof-Operator.html)
+---
+title: typeof Operator (JavaScript)
+isChild: false
+---
+
+## typeof Operator (JavaScript) {typeof_operator_javascript_title}
 
 ### Introduction 
 

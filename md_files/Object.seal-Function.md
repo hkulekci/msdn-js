@@ -1,4 +1,9 @@
-## [Object.seal Function (JavaScript)](Object.seal-Function.html)
+---
+title: Object.seal Function (JavaScript)
+isChild: false
+---
+
+## Object.seal Function (JavaScript) {objectseal_function_javascript_title}
 
 ### Introduction 
 

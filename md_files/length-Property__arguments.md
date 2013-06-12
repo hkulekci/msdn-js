@@ -1,4 +1,9 @@
-## [length Property (arguments) (JavaScript)](length-Property__arguments.html)
+---
+title: length Property (arguments) (JavaScript)
+isChild: false
+---
+
+## length Property (arguments) (JavaScript) {length_property_arguments_javascript_title}
 
 ### Introduction 
 

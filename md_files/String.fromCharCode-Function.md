@@ -1,4 +1,9 @@
-## [String.fromCharCode Function (JavaScript)](String.fromCharCode-Function.html)
+---
+title: String.fromCharCode Function (JavaScript)
+isChild: false
+---
+
+## String.fromCharCode Function (JavaScript) {stringfromcharcode_function_javascript_title}
 
 ### Introduction 
 

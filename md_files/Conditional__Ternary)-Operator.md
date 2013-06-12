@@ -1,4 +1,9 @@
-## [Conditional (Ternary) Operator (?:) (JavaScript)](Conditional__Ternary)-Operator.html)
+---
+title: Conditional (Ternary) Operator (?:) (JavaScript)
+isChild: false
+---
+
+## Conditional (Ternary) Operator (?:) (JavaScript) {conditional_ternary_operator_--_javascript_title}
 
 ### Introduction 
 

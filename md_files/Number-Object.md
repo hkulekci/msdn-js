@@ -1,4 +1,9 @@
-## [Number Object (JavaScript)](Number-Object.html)
+---
+title: Number Object (JavaScript)
+isChild: false
+---
+
+## Number Object (JavaScript) {number_object_javascript_title}
 
 ### Introduction 
 

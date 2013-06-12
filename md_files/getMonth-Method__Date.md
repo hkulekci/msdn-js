@@ -1,4 +1,9 @@
-## [getMonth Method (Date) (JavaScript)](getMonth-Method__Date.html)
+---
+title: getMonth Method (Date) (JavaScript)
+isChild: false
+---
+
+## getMonth Method (Date) (JavaScript) {getmonth_method_date_javascript_title}
 
 ### Introduction 
 

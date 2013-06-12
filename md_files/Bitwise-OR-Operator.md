@@ -1,4 +1,9 @@
-## [Bitwise OR Operator (|) (JavaScript)](Bitwise-OR-Operator.html)
+---
+title: Bitwise OR Operator (|) (JavaScript)
+isChild: false
+---
+
+## Bitwise OR Operator (|) (JavaScript) {bitwise_or_operator_grep_javascript_title}
 
 ### Introduction 
 

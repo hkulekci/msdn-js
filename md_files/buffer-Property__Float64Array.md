@@ -1,4 +1,9 @@
-## [buffer Property (Float64Array)](buffer-Property__Float64Array.html)
+---
+title: buffer Property (Float64Array)
+isChild: false
+---
+
+## buffer Property (Float64Array) {buffer_property_float64array_title}
 
 ### Introduction 
 

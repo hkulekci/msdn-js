@@ -1,4 +1,9 @@
-## [Math.max Function (JavaScript)](Math.max-Function.html)
+---
+title: Math.max Function (JavaScript)
+isChild: false
+---
+
+## Math.max Function (JavaScript) {mathmax_function_javascript_title}
 
 ### Introduction 
 

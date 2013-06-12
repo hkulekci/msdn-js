@@ -1,4 +1,9 @@
-## [Float32Array Object](Float32Array-Object.html)
+---
+title: Float32Array Object
+isChild: false
+---
+
+## Float32Array Object {float32array_object_title}
 
 ### Introduction 
 

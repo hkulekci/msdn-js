@@ -1,4 +1,9 @@
-## [slice Method (Array) (JavaScript)](slice-Method__Array.html)
+---
+title: slice Method (Array) (JavaScript)
+isChild: false
+---
+
+## slice Method (Array) (JavaScript) {slice_method_array_javascript_title}
 
 ### Introduction 
 

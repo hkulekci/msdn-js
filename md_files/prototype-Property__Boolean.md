@@ -1,4 +1,9 @@
-## [prototype Property (Boolean)](prototype-Property__Boolean.html)
+---
+title: prototype Property (Boolean)
+isChild: false
+---
+
+## prototype Property (Boolean) {prototype_property_boolean_title}
 
 ### Introduction 
 

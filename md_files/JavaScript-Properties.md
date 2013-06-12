@@ -1,4 +1,9 @@
-## [JavaScript Properties](JavaScript-Properties.html)
+---
+title: JavaScript Properties
+isChild: false
+---
+
+## JavaScript Properties {javascript_properties_title}
 
 ### Introduction 
 

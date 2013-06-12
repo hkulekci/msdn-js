@@ -1,4 +1,9 @@
-## [ScriptEngineMajorVersion Function (JavaScript)](ScriptEngineMajorVersion-Function.html)
+---
+title: ScriptEngineMajorVersion Function (JavaScript)
+isChild: false
+---
+
+## ScriptEngineMajorVersion Function (JavaScript) {scriptenginemajorversion_function_javascript_title}
 
 ### Introduction 
 

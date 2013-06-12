@@ -1,4 +1,9 @@
-## [Regular Expression Object (JavaScript)](Regular-Expression-Object.html)
+---
+title: Regular Expression Object (JavaScript)
+isChild: false
+---
+
+## Regular Expression Object (JavaScript) {regular_expression_object_javascript_title}
 
 ### Introduction 
 

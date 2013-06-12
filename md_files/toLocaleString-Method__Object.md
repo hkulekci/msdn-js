@@ -1,4 +1,9 @@
-## [toLocaleString Method (Object) (JavaScript)](toLocaleString-Method__Object.html)
+---
+title: toLocaleString Method (Object) (JavaScript)
+isChild: false
+---
+
+## toLocaleString Method (Object) (JavaScript) {tolocalestring_method_object_javascript_title}
 
 ### Introduction 
 

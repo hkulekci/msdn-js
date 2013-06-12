@@ -1,4 +1,9 @@
-## [constructor Property (String)](constructor-Property__String.html)
+---
+title: constructor Property (String)
+isChild: false
+---
+
+## constructor Property (String) {constructor_property_string_title}
 
 ### Introduction 
 

@@ -1,4 +1,9 @@
-## [JavaScript Reserved Words](JavaScript-Reserved-Words.html)
+---
+title: JavaScript Reserved Words
+isChild: false
+---
+
+## JavaScript Reserved Words {javascript_reserved_words_title}
 
 ### Introduction 
 

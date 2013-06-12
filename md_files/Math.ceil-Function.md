@@ -1,4 +1,9 @@
-## [Math.ceil Function (JavaScript)](Math.ceil-Function.html)
+---
+title: Math.ceil Function (JavaScript)
+isChild: false
+---
+
+## Math.ceil Function (JavaScript) {mathceil_function_javascript_title}
 
 ### Introduction 
 

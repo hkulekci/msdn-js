@@ -1,4 +1,9 @@
-## [byteOffset Property (DataView)](byteOffset-Property__DataView.html)
+---
+title: byteOffset Property (DataView)
+isChild: false
+---
+
+## byteOffset Property (DataView) {byteoffset_property_dataview_title}
 
 ### Introduction 
 

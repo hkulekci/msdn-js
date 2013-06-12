@@ -1,4 +1,9 @@
-## [JavaScript Directives](JavaScript-Directives.html)
+---
+title: JavaScript Directives
+isChild: false
+---
+
+## JavaScript Directives {javascript_directives_title}
 
 ### Introduction 
 

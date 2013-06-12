@@ -1,4 +1,9 @@
-## [JavaScript Future Reserved Words](JavaScript-Future-Reserved-Words.html)
+---
+title: JavaScript Future Reserved Words
+isChild: false
+---
+
+## JavaScript Future Reserved Words {javascript_future_reserved_words_title}
 
 ### Introduction 
 

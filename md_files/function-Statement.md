@@ -1,4 +1,9 @@
-## [function Statement (JavaScript)](function-Statement.html)
+---
+title: function Statement (JavaScript)
+isChild: false
+---
+
+## function Statement (JavaScript) {function_statement_javascript_title}
 
 ### Introduction 
 

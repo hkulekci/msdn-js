@@ -1,4 +1,9 @@
-## [Boolean Object (JavaScript)](Boolean-Object.html)
+---
+title: Boolean Object (JavaScript)
+isChild: false
+---
+
+## Boolean Object (JavaScript) {boolean_object_javascript_title}
 
 ### Introduction 
 

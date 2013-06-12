@@ -1,4 +1,9 @@
-## [compile Method (Regular Expression) (JavaScript)](compile-Method__Regular-Expression.html)
+---
+title: compile Method (Regular Expression) (JavaScript)
+isChild: false
+---
+
+## compile Method (Regular Expression) (JavaScript) {compile_method_regular_expression_javascript_title}
 
 ### Introduction 
 

@@ -1,4 +1,9 @@
-## [Uint16Array Object](Uint16Array-Object.html)
+---
+title: Uint16Array Object
+isChild: false
+---
+
+## Uint16Array Object {uint16array_object_title}
 
 ### Introduction 
 

@@ -1,4 +1,9 @@
-## [Math Constants (JavaScript)](Math-Constants.html)
+---
+title: Math Constants (JavaScript)
+isChild: false
+---
+
+## Math Constants (JavaScript) {math_constants_javascript_title}
 
 ### Introduction 
 

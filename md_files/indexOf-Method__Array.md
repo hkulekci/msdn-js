@@ -1,4 +1,9 @@
-## [indexOf Method (Array) (JavaScript)](indexOf-Method__Array.html)
+---
+title: indexOf Method (Array) (JavaScript)
+isChild: false
+---
+
+## indexOf Method (Array) (JavaScript) {indexof_method_array_javascript_title}
 
 ### Introduction 
 

@@ -1,4 +1,9 @@
-## [byteLength Property (Float32Array)](byteLength-Property__Float32Array.html)
+---
+title: byteLength Property (Float32Array)
+isChild: false
+---
+
+## byteLength Property (Float32Array) {bytelength_property_float32array_title}
 
 ### Introduction 
 

@@ -1,4 +1,9 @@
-## [0...n Properties (arguments) (JavaScript)](0_n-Properties__arguments.html)
+---
+title: 0...n Properties (arguments) (JavaScript)
+isChild: false
+---
+
+## 0...n Properties (arguments) (JavaScript) {0n_properties_arguments_javascript_title}
 
 ### Introduction 
 

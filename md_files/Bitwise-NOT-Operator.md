@@ -1,4 +1,9 @@
-## [Bitwise NOT Operator (~) (JavaScript)](Bitwise-NOT-Operator.html)
+---
+title: Bitwise NOT Operator (~) (JavaScript)
+isChild: false
+---
+
+## Bitwise NOT Operator (~) (JavaScript) {bitwise_not_operator_tilda_javascript_title}
 
 ### Introduction 
 

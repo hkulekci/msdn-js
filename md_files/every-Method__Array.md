@@ -1,4 +1,9 @@
-## [every Method (Array) (JavaScript)](every-Method__Array.html)
+---
+title: every Method (Array) (JavaScript)
+isChild: false
+---
+
+## every Method (Array) (JavaScript) {every_method_array_javascript_title}
 
 ### Introduction 
 

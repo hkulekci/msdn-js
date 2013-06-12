@@ -1,4 +1,9 @@
-## [toTimeString Method (Date) (JavaScript)](toTimeString-Method__Date.html)
+---
+title: toTimeString Method (Date) (JavaScript)
+isChild: false
+---
+
+## toTimeString Method (Date) (JavaScript) {totimestring_method_date_javascript_title}
 
 ### Introduction 
 

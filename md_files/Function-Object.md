@@ -1,4 +1,9 @@
-## [Function Object (JavaScript)](Function-Object.html)
+---
+title: Function Object (JavaScript)
+isChild: false
+---
+
+## Function Object (JavaScript) {function_object_javascript_title}
 
 ### Introduction 
 

@@ -1,4 +1,9 @@
-## [set Method (Float64Array)](set-Method__Float64Array.html)
+---
+title: set Method (Float64Array)
+isChild: false
+---
+
+## set Method (Float64Array) {set_method_float64array_title}
 
 ### Introduction 
 

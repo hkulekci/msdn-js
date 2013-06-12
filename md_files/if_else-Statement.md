@@ -1,4 +1,9 @@
-## [if...else Statement (JavaScript)](if_else-Statement.html)
+---
+title: if...else Statement (JavaScript)
+isChild: false
+---
+
+## if...else Statement (JavaScript) {ifelse_statement_javascript_title}
 
 ### Introduction 
 

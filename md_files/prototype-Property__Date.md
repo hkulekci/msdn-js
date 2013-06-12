@@ -1,4 +1,9 @@
-## [prototype Property (Date)](prototype-Property__Date.html)
+---
+title: prototype Property (Date)
+isChild: false
+---
+
+## prototype Property (Date) {prototype_property_date_title}
 
 ### Introduction 
 

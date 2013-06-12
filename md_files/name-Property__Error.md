@@ -1,4 +1,9 @@
-## [name Property (Error) (JavaScript)](name-Property__Error.html)
+---
+title: name Property (Error) (JavaScript)
+isChild: false
+---
+
+## name Property (Error) (JavaScript) {name_property_error_javascript_title}
 
 ### Introduction 
 

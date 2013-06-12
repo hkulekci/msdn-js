@@ -1,4 +1,9 @@
-## [Subtraction Assignment Operator (-=) (JavaScript)](Subtraction-Assignment-Operator.html)
+---
+title: Subtraction Assignment Operator (-=) (JavaScript)
+isChild: false
+---
+
+## Subtraction Assignment Operator (-=) (JavaScript) {subtraction_assignment_operator_equal_javascript_title}
 
 ### Introduction 
 

@@ -1,4 +1,9 @@
-## [toExponential Method (Number) (JavaScript)](toExponential-Method__Number.html)
+---
+title: toExponential Method (Number) (JavaScript)
+isChild: false
+---
+
+## toExponential Method (Number) (JavaScript) {toexponential_method_number_javascript_title}
 
 ### Introduction 
 

@@ -1,4 +1,9 @@
-## [byteLength Property (DataView)](byteLength-Property__DataView.html)
+---
+title: byteLength Property (DataView)
+isChild: false
+---
+
+## byteLength Property (DataView) {bytelength_property_dataview_title}
 
 ### Introduction 
 

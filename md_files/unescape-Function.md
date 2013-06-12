@@ -1,4 +1,9 @@
-## [unescape Function (JavaScript)](unescape-Function.html)
+---
+title: unescape Function (JavaScript)
+isChild: false
+---
+
+## unescape Function (JavaScript) {unescape_function_javascript_title}
 
 ### Introduction 
 

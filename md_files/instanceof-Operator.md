@@ -1,4 +1,9 @@
-## [instanceof Operator (JavaScript)](instanceof-Operator.html)
+---
+title: instanceof Operator (JavaScript)
+isChild: false
+---
+
+## instanceof Operator (JavaScript) {instanceof_operator_javascript_title}
 
 ### Introduction 
 

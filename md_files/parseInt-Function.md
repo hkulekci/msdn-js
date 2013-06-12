@@ -1,4 +1,9 @@
-## [parseInt Function (JavaScript)](parseInt-Function.html)
+---
+title: parseInt Function (JavaScript)
+isChild: false
+---
+
+## parseInt Function (JavaScript) {parseint_function_javascript_title}
 
 ### Introduction 
 

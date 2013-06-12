@@ -1,4 +1,9 @@
-## [toString Method (Boolean)](toString-Method__Boolean.html)
+---
+title: toString Method (Boolean)
+isChild: false
+---
+
+## toString Method (Boolean) {tostring_method_boolean_title}
 
 ### Introduction 
 

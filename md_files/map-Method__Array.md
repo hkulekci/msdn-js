@@ -1,4 +1,9 @@
-## [map Method (Array) (JavaScript)](map-Method__Array.html)
+---
+title: map Method (Array) (JavaScript)
+isChild: false
+---
+
+## map Method (Array) (JavaScript) {map_method_array_javascript_title}
 
 ### Introduction 
 

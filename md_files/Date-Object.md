@@ -1,4 +1,9 @@
-## [Date Object (JavaScript)](Date-Object.html)
+---
+title: Date Object (JavaScript)
+isChild: false
+---
+
+## Date Object (JavaScript) {date_object_javascript_title}
 
 ### Introduction 
 

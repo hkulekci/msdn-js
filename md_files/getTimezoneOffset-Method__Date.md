@@ -1,4 +1,9 @@
-## [getTimezoneOffset Method (Date) (JavaScript)](getTimezoneOffset-Method__Date.html)
+---
+title: getTimezoneOffset Method (Date) (JavaScript)
+isChild: false
+---
+
+## getTimezoneOffset Method (Date) (JavaScript) {gettimezoneoffset_method_date_javascript_title}
 
 ### Introduction 
 

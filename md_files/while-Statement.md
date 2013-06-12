@@ -1,4 +1,9 @@
-## [while Statement (JavaScript)](while-Statement.html)
+---
+title: while Statement (JavaScript)
+isChild: false
+---
+
+## while Statement (JavaScript) {while_statement_javascript_title}
 
 ### Introduction 
 
