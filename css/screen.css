@@ -60,6 +60,14 @@ table {
 ul.posts {
   list-style-type: none;
   margin-bottom: 2em;
+  width: 300px;
+  float: left;
+  position: fixed;
+  height: 100%;
+  overflow-y: scroll;
+  top: 0px;
+  bottom: 0px;
+  overflow-x: hidden;
 }
 
   ul.posts li {
@@ -81,8 +89,7 @@ ul.posts {
 .site {
   font-size: 110%;
   text-align: justify;
-  width: 42em;
-  margin: 3em auto 2em auto;
+  margin: 20px;
   line-height: 1.5em;
 }
 
@@ -195,3 +202,8 @@ ul.posts {
   #related h2 {
     margin-bottom: 1em;
   }
+
+#content{
+  float: right;
+width: 900px;
+}
